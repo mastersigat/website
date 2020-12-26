@@ -16,8 +16,8 @@
     <language>fr</language>
 
     <!-- Timestamps and frequency -->
-    <pubDate>Thu, 24 Dec 2020 15:57:31 -0000</pubDate>
-    <lastBuildDate>Thu, 24 Dec 2020 15:57:31 -0000</lastBuildDate>
+    <pubDate>Sat, 26 Dec 2020 09:15:06 -0000</pubDate>
+    <lastBuildDate>Sat, 26 Dec 2020 09:15:06 -0000</lastBuildDate>
     <ttl>1440</ttl>
 
     <!-- Credits -->
@@ -42,7 +42,7 @@
       <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
       <guid isPermaLink="true">https://static.geotribu.fr/rdp/2020/rdp_2020-12-25/</guid>
       
-      <enclosure url="https://cdn.geotribu.fr/img/articles-blog-rdp/merry_christmas_blender.webp" type="None" length="164408" />
+      <enclosure url="https://cdn.geotribu.fr/img/articles-blog-rdp/merry_christmas_blender.png" type="image/png" length="530787" />
       
     </item>
     
