@@ -19,8 +19,8 @@
     <language>fr</language>
 
     <!-- Timestamps and frequency -->
-    <pubDate>Sat, 26 Dec 2020 19:32:25 -0000</pubDate>
-    <lastBuildDate>Sat, 26 Dec 2020 19:32:25 -0000</lastBuildDate>
+    <pubDate>Tue, 29 Dec 2020 10:37:09 -0000</pubDate>
+    <lastBuildDate>Tue, 29 Dec 2020 10:37:09 -0000</lastBuildDate>
     <ttl>1440</ttl>
 
     <!-- Credits -->
@@ -147,7 +147,7 @@
     
     <item>
       <title>Tutoriel de prise en main du logiciel de rendu 3D Aerialod</title>
-      <description>Concepts de base et exemples de paramétrage et de rendu sur aerialod</description>
+      <description>Concepts de base et exemples de paramétrage et de rendu sur aerialod (cartographie 3D).</description>
       <link>https://static.geotribu.fr/articles/2020/2020-09-20_tutorial_aerialod/</link>
       <pubDate>Wed, 14 Oct 2020 10:20:00 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
@@ -214,26 +214,6 @@
       <guid isPermaLink="true">https://static.geotribu.fr/contribuer/guides/markdown_quality/</guid>
       
       <enclosure url="https://cdn.geotribu.fr/img/internal/contribution/markdown_quick_exemple_rendu.png" type="image/png" length="36567" />
-      
-    </item>
-    
-    <item>
-      <title>Modifier un contenu depuis le site web</title>
-      <description># Modifier un contenu depuis le site web
-
-Vous voulez ajouter une précision ? Vous avez aperçu une insupportable coquille ? Une image ou un contenu intégré n&#39;apparaît pas correctement ?
-
-Voici comment corriger en quelques étapes simples et **sans rien installer**.
-
-## 1. Cliquer sur l&#39;icône d&#39;édition en haut de la page où il y a besoin d&#39;une correction
-
-![Bouton d&#39;édition d&#39;une page](https://cdn.geotribu.fr/img/internal/contribution/edit_icon_pen.png)
-
-## 2. Cela redirige (dans un ouvel onglet) </description>
-      <link>https://static.geotribu.fr/contribuer/edit/fix_content_from_website/</link>
-      <pubDate>Mon, 14 Sep 2020 12:33:55 -0000</pubDate>
-      <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
-      <guid isPermaLink="true">https://static.geotribu.fr/contribuer/edit/fix_content_from_website/</guid>
       
     </item>
     
@@ -305,6 +285,8 @@ Voici comment corriger en quelques étapes simples et **sans rien installer**.
       <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
       <guid isPermaLink="true">https://static.geotribu.fr/rdp/2020/rdp_2020-08-21/</guid>
       
+      <enclosure url="https://cdn.geotribu.fr/img/articles-blog-rdp/osm_flight_simulator_melbourde.jpeg" type="image/jpeg" length="64330" />
+      
     </item>
     
     <item>
@@ -360,6 +342,8 @@ Voici comment corriger en quelques étapes simples et **sans rien installer**.
       <pubDate>Fri, 24 Jul 2020 10:20:00 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
       <guid isPermaLink="true">https://static.geotribu.fr/rdp/2020/rdp_2020-07-24/</guid>
+      
+      <enclosure url="https://raw.githubusercontent.com/tylermorganwall/rayshader/master/man/figures/smallfeature.png" type="image/png" length="321039" />
       
     </item>
     
@@ -429,9 +413,11 @@ On utilise [l&#39;extension dédiée de PyMdown](https://facelessuser.github.io/
       <title>Revue de presse du 10 juillet 2020</title>
       <description>Revue de presse géomatique du 10 juillet 2020 : éditeur OSM en Python, flux RSS Geotribu, Landsat dans le cloud, vision sur le futur du SIG open source, 16è conférence gvSIG</description>
       <link>https://static.geotribu.fr/rdp/2020/rdp_2020-07-10/</link>
-      <pubDate>Fri, 10 Jul 2020 13:33:18 -0000</pubDate>
+      <pubDate>Fri, 10 Jul 2020 10:20:00 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
       <guid isPermaLink="true">https://static.geotribu.fr/rdp/2020/rdp_2020-07-10/</guid>
+      
+      <enclosure url="https://cdn.geotribu.fr/img/articles-blog-rdp/capture-ecran/osmapy.png" type="image/png" length="768315" />
       
     </item>
     
@@ -448,6 +434,16 @@ On utilise [l&#39;extension dédiée de PyMdown](https://facelessuser.github.io/
     </item>
     
     <item>
+      <title>Revue de presse du 26 Juin 2020</title>
+      <description>Revue de presse géomatique du 26 juin 2020 : QGIS 3.14, Mapillary rachetée par Facebook, webinaires Isogeo, certaes du confinement de Bloomberg</description>
+      <link>https://static.geotribu.fr/rdp/2020/rdp_2020-06-26/</link>
+      <pubDate>Sat, 20 Jun 2020 10:20:00 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
+      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2020/rdp_2020-06-26/</guid>
+      
+    </item>
+    
+    <item>
       <title>Python - Configuration sur Windows et outillage</title>
       <description>Configuration et outillage de base pour développer en Python en 2020, avec un focus sur le travail sous Windows.</description>
       <link>https://static.geotribu.fr/articles/2020/2020-06-19_setup_python/</link>
@@ -460,22 +456,14 @@ On utilise [l&#39;extension dédiée de PyMdown](https://facelessuser.github.io/
     </item>
     
     <item>
-      <title>Revue de presse du 26 Juin 2020</title>
-      <description>Revue de presse géomatique du 26 juin 2020 : QGIS 3.14, Mapillary rachetée par Facebook, webinaires Isogeo, certaes du confinement de Bloomberg</description>
-      <link>https://static.geotribu.fr/rdp/2020/rdp_2020-06-26/</link>
-      <pubDate>Tue, 16 Jun 2020 08:11:16 -0000</pubDate>
-      <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
-      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2020/rdp_2020-06-26/</guid>
-      
-    </item>
-    
-    <item>
       <title>Revue de presse du 12 juin 2020</title>
-      <description>Revue de presse du 12 juin 2020</description>
+      <description>GeoRDP du 12 juin 2020 : mots-croisés géographiques et quel est le serveur géospatial le plus répandu ?</description>
       <link>https://static.geotribu.fr/rdp/2020/rdp_2020-06-12/</link>
-      <pubDate>Fri, 05 Jun 2020 19:33:22 -0000</pubDate>
+      <pubDate>Fri, 12 Jun 2020 10:20:00 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
       <guid isPermaLink="true">https://static.geotribu.fr/rdp/2020/rdp_2020-06-12/</guid>
+      
+      <enclosure url="https://cdn.geotribu.fr/img/articles-blog-rdp/capture-ecran/geoseer_analisis_geospatial_servers_propr_vs_foss.png" type="image/png" length="13025" />
       
     </item>
     
@@ -501,88 +489,14 @@ Le but de ce tutorial est de découvrir via u</description>
     </item>
     
     <item>
-      <title>Interview de David Jonglez</title>
-      <description># Interview de David Jonglez
-
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube-nocookie.com/embed/_n-Rkciulfs&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
-
-## Présentation générale
-
-### 1. Peux-tu te présenter brièvement (âge, études, parcours) stp ?
-
-J&amp;#39;ai 37 ans, suis natif du Nord, mais vis entre la Savoie, ma terre d&amp;#39;adoption et, Paris, pour les affaires. Etant très branché Montagne, j&amp;#39;ai souhai</description>
-      <link>https://static.geotribu.fr/articles/2013/art_2013-06-13_itw_davidjonglez/</link>
-      <pubDate>Fri, 05 Jun 2020 10:30:16 -0000</pubDate>
-      <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
-      <guid isPermaLink="true">https://static.geotribu.fr/articles/2013/art_2013-06-13_itw_davidjonglez/</guid>
-      
-    </item>
-    
-    <item>
-      <title>Interview de Drones Crisis</title>
-      <description># Interview de Drones Crisis
-
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube-nocookie.com/embed/H2sxUHeqB8g&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
-
-## Partie 1 - Retour d&amp;#39;experience sur le projet Drone Adventures
-
-### 1. (All) Pourriez-vous svp vous présenter brièvement (âge, études, parcours, projets, produits, compétences) ?
-
-Emmanuel de Maistre : Normalien et HEC Entrepreneurs, Dirigeant et co-f</description>
-      <link>https://static.geotribu.fr/articles/2014/art_2014-08-29_itw_drones_crisis/</link>
-      <pubDate>Fri, 05 Jun 2020 10:30:16 -0000</pubDate>
-      <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
-      <guid isPermaLink="true">https://static.geotribu.fr/articles/2014/art_2014-08-29_itw_drones_crisis/</guid>
-      
-    </item>
-    
-    <item>
-      <title>Articles</title>
-      <description># Articles
-
-Les articles sont regroupés par année de publication. On y trouve :
-
-* des billets de blogs
-* des dossiers
-* des tutoriels
-* de simples brèves ou annonces
-</description>
-      <link>https://static.geotribu.fr/articles/</link>
-      <pubDate>Mon, 01 Jun 2020 10:03:24 -0000</pubDate>
-      <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
-      <guid isPermaLink="true">https://static.geotribu.fr/articles/</guid>
-      
-    </item>
-    
-    <item>
       <title>Revue de presse du 29 mai 2020</title>
-      <description># Revue de presse du 29 mai 2020
-
-## Intro
-
-![Logo intro](https://cdn.geotribu.fr/img/internal/icons-rdp-news/journalisme.png){: .img-rdp-news-thumb }
-
-Après une quatorzaine de rétention réglementaire, les news sont lâchées. De nouvelles versions notamment pour les moteurs de calcul d&#39;itinéraires, un plugin original pour Leaflet, la feuille de route de la conformité OGC de QGIS Serveur et du développement d&#39;OpenMapTiles, la cartographie géologique de notre premier satellite, du deep learning, le</description>
+      <description>#GeoRDP du 29 mai 2020 : après une quatorzaine de rétention réglementaire, les news géomatique sont lâchées.</description>
       <link>https://static.geotribu.fr/rdp/2020/rdp_2020-05-29/</link>
-      <pubDate>Fri, 15 May 2020 13:00:39 -0000</pubDate>
+      <pubDate>Fri, 29 May 2020 10:20:00 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
       <guid isPermaLink="true">https://static.geotribu.fr/rdp/2020/rdp_2020-05-29/</guid>
       
-    </item>
-    
-    <item>
-      <title>Revue de presse du 30 avril 2020</title>
-      <description># Revue de presse du 30 avril 2020
-
-## Intro
-
-2 ans ? 3 ans ? Oui, je crois que cela fait bien 3 ans que je n&#39;ai pas eu à réfléchir... à une introduction pour une [#GeoRDP](https://twitter.com/hashtag/GeoRDP). Nous revoilà après une traversée du désert et un enseignement : il faut **toujours** vérifier les sauvegardes de sa base de données !
-
-Il aura fallu un confinement international, plus d&#39;un mois de travail &#34;perlé&#34; sur l&#39;extraction et la conversion des contenus à partir d&#39;une ancienne sauveg</description>
-      <link>https://static.geotribu.fr/rdp/2020/rdp_2020-04-30/</link>
-      <pubDate>Tue, 12 May 2020 10:01:14 -0000</pubDate>
-      <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
-      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2020/rdp_2020-04-30/</guid>
+      <enclosure url="https://cdn.geotribu.fr/img/articles-blog-rdp/capture-ecran/lune_carte_geologique_usgs_2020.jpg" type="image/jpeg" length="437054" />
       
     </item>
     
@@ -590,11 +504,23 @@ Il aura fallu un confinement international, plus d&#39;un mois de travail &#34;p
       <title>Revue de presse du 15 mai 2020</title>
       <description>#GeoRDP du 15 mai 2020 : projection, GRASS, pyrosm, gdal, FME 2020, geopackage, qgis, geoserver, geomapfish</description>
       <link>https://static.geotribu.fr/rdp/2020/rdp_2020-05-15/</link>
-      <pubDate>Fri, 08 May 2020 10:20:00 -0000</pubDate>
+      <pubDate>Fri, 15 May 2020 10:20:00 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
       <guid isPermaLink="true">https://static.geotribu.fr/rdp/2020/rdp_2020-05-15/</guid>
       
       <enclosure url="https://cdn.geotribu.fr/img/articles-blog-rdp/capture-ecran/mercator_scandale_bd.jpg" type="image/jpeg" length="118603" />
+      
+    </item>
+    
+    <item>
+      <title>Revue de presse du 30 avril 2020</title>
+      <description>GeoRDP du 30 avril 2020 : première revue de presse de Geotribu après des années de pause.</description>
+      <link>https://static.geotribu.fr/rdp/2020/rdp_2020-04-30/</link>
+      <pubDate>Thu, 30 Apr 2020 10:20:00 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
+      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2020/rdp_2020-04-30/</guid>
+      
+      <enclosure url="https://cdn.geotribu.fr/img/articles-blog-rdp/capture-ecran/carte_escande_migrations_par-tous-les-chemins.jpg" type="image/jpeg" length="118037" />
       
     </item>
     
@@ -661,27 +587,16 @@ Prenons ce tweet pour exemple : &lt;https://twitter.com/geojulien/status/1169878
     </item>
     
     <item>
-      <title>Prérequis</title>
-      <description>Prérequis minimaux pour contribuer à Geotribu : un compte GitHub et savoir écrire en Markdown.</description>
-      <link>https://static.geotribu.fr/contribuer/requirements/</link>
-      <pubDate>Mon, 20 Apr 2020 08:48:37 -0000</pubDate>
-      <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
-      <guid isPermaLink="true">https://static.geotribu.fr/contribuer/requirements/</guid>
-      
-    </item>
-    
-    <item>
       <title>Adrien Van Hamme</title>
       <description># Adrien Van Hamme
 
-![](https://cdn.geotribu.fr/img/internal/contributeurs/avha.jpg){: .img-rdp-news-thumb }
+![portrait](https://cdn.geotribu.fr/img/internal/contributeurs/avha.jpg &#34;portrait&#34;){: .img-rdp-news-thumb }
 
 Site officiel : &lt;https://adrienvh.fr/&gt;
 
 Twitter : &lt;https://twitter.com/sigomatique&gt;
 
 !!! info
-
     :moyai: Ce contributeur n&#39;est plus actif. :wave:
 </description>
       <link>https://static.geotribu.fr/team/avha/</link>
@@ -695,9 +610,9 @@ Twitter : &lt;https://twitter.com/sigomatique&gt;
       <title>Guillaume de Boyer</title>
       <description># Guillaume de Boyer
 
-![](https://cdn.geotribu.fr/img/internal/contributeurs/gdbo.jpg){: .img-rdp-news-thumb }
+![portrait](https://cdn.geotribu.fr/img/internal/contributeurs/gdbo.jpg &#34;portrait&#34;){: .img-rdp-news-thumb }
 
-Géomaticien de formation, j’ai rejoint l’Australie en décembre 2011 avec un WHV. Après quelques mois passés à voyager, j’ai posé mes valises à Sydney où je travaille depuis septembre 2012 comme administrateur SIG dans le secteur des telecoms. Je m&#39;efforce de créer une architecture spatiale optimale pour visualiser, partager et éditer les éléments d&#39;un réseau qui relie les métropoles au</description>
+Géomaticien de formation, j’ai rejoint l’Australie en décembre 2011 avec un WHV. Après quelques mois passés à voyager, j’ai posé mes valises à Sydney où je travaille depuis septembre 2012 comme administrateur SIG dans le secteur des telecoms. Je m&#39;efforce de créer une architecture spatiale optimale pour visualiser, partager et éditer les éléments d&#39;un réseau qui reli</description>
       <link>https://static.geotribu.fr/team/gdbo/</link>
       <pubDate>Wed, 15 Apr 2020 14:53:44 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
@@ -709,12 +624,11 @@ Géomaticien de formation, j’ai rejoint l’Australie en décembre 2011 avec u
       <title>Julie Pierson</title>
       <description># Julie Pierson
 
-![](https://cdn.geotribu.fr/img/internal/contributeurs/jpie.png){: .img-rdp-news-thumb }
+![portrait](https://cdn.geotribu.fr/img/internal/contributeurs/jpie.png &#34;portrait&#34;){: .img-rdp-news-thumb }
 
 &gt; Twitter : &lt;https://twitter.com/sigomatique&gt;
 
 !!! info
-
     :moyai: Ce contributeur n&#39;est plus actif. :wave:
 </description>
       <link>https://static.geotribu.fr/team/jpie/</link>
@@ -728,15 +642,90 @@ Géomaticien de formation, j’ai rejoint l’Australie en décembre 2011 avec u
       <title>Rémi Bovard</title>
       <description># Rémi Bovard
 
-![](https://cdn.geotribu.fr/img/internal/contributeurs/rbov.png){: .img-rdp-news-thumb }
+![portrait](https://cdn.geotribu.fr/img/internal/contributeurs/rbov.png &#34;portrait&#34;){: .img-rdp-news-thumb }
 
 Ingénieur en géomatique, je suis passionné par les SIG, le webmapping et tout ce qui touche de près ou de loin aux analyses spatiales et autres géotraitements. Mes outils de travail quotidiens sont QGIS, PostGIS, FME, MapFish et lorsque je développe, c&#39;est principalement en JavaScript ou en Python.
 
-J&#39;ai rejoint l&#39;équipe de GéoTribu pour apporter une touche helvétique aux revues de presse et </description>
+J&#39;ai rejoint l&#39;équipe de GéoTribu pour apporter une touche helvétique aux r</description>
       <link>https://static.geotribu.fr/team/rbov/</link>
       <pubDate>Wed, 15 Apr 2020 14:53:44 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
       <guid isPermaLink="true">https://static.geotribu.fr/team/rbov/</guid>
+      
+    </item>
+    
+    <item>
+      <title>Rodolphe Quiédeville</title>
+      <description># Rodolphe Quiédeville
+
+![portrait](https://cdn.geotribu.fr/img/internal/contributeurs/rqui.jfif &#34;portrait&#34;){: .img-rdp-news-thumb }
+
+Autodidacte de formation je suis venu à la géomatique par les logiciels libres, j&#39;ai fait mes premières armes avec MapServer et GRASS il y a maintenant de nombreuses années. Après une trop longue pause en dehors des cartes, j&#39;y suis revenu par le projet OpenStreetMap auquel je contribue dès que je peux. Un peu touche à tout je m&#39;intéresse aux outils libres qui éme</description>
+      <link>https://static.geotribu.fr/team/rqui/</link>
+      <pubDate>Wed, 15 Apr 2020 14:53:44 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
+      <guid isPermaLink="true">https://static.geotribu.fr/team/rqui/</guid>
+      
+    </item>
+    
+    <item>
+      <title>Arnaud Vandecasteele</title>
+      <description># Arnaud Vandecasteele
+
+![portrait](https://cdn.geotribu.fr/img/internal/contributeurs/avdc.jpg &#34;portrait&#34;){: .img-rdp-news-thumb }
+
+Bien qu&#39;issus à l&#39;origine d&#39;un parcours universitaire (doctorat et post-doc), j&#39;ai finalement tenté l&#39;aventure entrepreunariale au travers de [Geolab](http://geolab.re/). Mes principaux centres d&#39;intêrets dans le domaine de la géomatique portent sur les logiciels Open Source et plus particulièrement QGIS. J&#39;aime également le développement informatique avec une fort</description>
+      <link>https://static.geotribu.fr/team/avdc/</link>
+      <pubDate>Wed, 15 Apr 2020 12:48:44 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
+      <guid isPermaLink="true">https://static.geotribu.fr/team/avdc/</guid>
+      
+    </item>
+    
+    <item>
+      <title>Etienne Delay</title>
+      <description># Etienne Delay
+
+![portrait](https://cdn.geotribu.fr/img/internal/contributeurs/edel.jpg &#34;portrait&#34;){: .img-rdp-news-thumb }
+
+Je suis géographe avec une entrée en géographie sociale par la modélisation et la simulation informatique à base d&#39;agents. Je mène des recherches sur les manifestations géographiques (spatiale) de l&#39;entraide et de la coopération. J&#39;ai développé une méthodologie de recherche basée sur le travail de terrain et la modélisation d&#39;accompagnement.
+
+J&#39;ai appliqué ces méthodes à </description>
+      <link>https://static.geotribu.fr/team/edel/</link>
+      <pubDate>Wed, 15 Apr 2020 12:48:44 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
+      <guid isPermaLink="true">https://static.geotribu.fr/team/edel/</guid>
+      
+    </item>
+    
+    <item>
+      <title>Fabien Goblet</title>
+      <description># Fabien Goblet
+
+![portrait](https://cdn.geotribu.fr/img/internal/contributeurs/fgob.jfif &#34;portrait&#34;){: .img-rdp-news-thumb }
+
+Informaticien et géographe de formation, ~~je suis~~ j&#39;étais indépendant en base de données, webmapping, j&#39;aide à la modélisation et à la définition du besoin client, ~~je développe~~ j&#39;encadre le développement des interfaces d&#39;administration et des carto-web, je conçois des api géographiques pour les administrations, les ONG, les labos de recherche.
+Je suis maintenant r</description>
+      <link>https://static.geotribu.fr/team/fgob/</link>
+      <pubDate>Wed, 15 Apr 2020 12:48:44 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
+      <guid isPermaLink="true">https://static.geotribu.fr/team/fgob/</guid>
+      
+    </item>
+    
+    <item>
+      <title>Julien Moura</title>
+      <description># Julien Moura
+
+![Portrait Julien Moura](https://cdn.geotribu.fr/img/internal/contributeurs/jmou.jfif &#34;Portrait Julien Moura&#34;){: .img-rdp-news-thumb }
+
+Géographe &#34;sigiste&#34; de formation, j&#39;ai d&#39;abord travaillé sur différentes thématiques et types de structures : la gestion des déchets en milieu urbain à Madagascar, le foncier d&#39;intérêt général auprès de [l&#39;EPF de La Réunion](http://www.epf-reunion.com/), l&#39;organisation et la résilience urbaine face aux risques naturels à Lima pour l&#39;IRD.
+
+C&#39;est e</description>
+      <link>https://static.geotribu.fr/team/jmou/</link>
+      <pubDate>Wed, 15 Apr 2020 12:48:44 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
+      <guid isPermaLink="true">https://static.geotribu.fr/team/jmou/</guid>
       
     </item>
     

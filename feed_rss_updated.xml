@@ -19,8 +19,8 @@
     <language>fr</language>
 
     <!-- Timestamps and frequency -->
-    <pubDate>Sat, 26 Dec 2020 19:32:25 -0000</pubDate>
-    <lastBuildDate>Sat, 26 Dec 2020 19:32:25 -0000</lastBuildDate>
+    <pubDate>Tue, 29 Dec 2020 10:37:09 -0000</pubDate>
+    <lastBuildDate>Tue, 29 Dec 2020 10:37:09 -0000</lastBuildDate>
     <ttl>1440</ttl>
 
     <!-- Credits -->
@@ -38,6 +38,625 @@
     <!-- Entries -->
     
     <item>
+      <title>Contribution facile et ludique à OSM avec Street Complete</title>
+      <description>Présentation de Street Complete, l&#39;application Android qui permet de contribuer facilement et de façon ludique à OpenStreetMap.</description>
+      <link>https://static.geotribu.fr/articles/2020/2020-11-21_openstreetmap_street_complete/</link>
+      <pubDate>Sun, 27 Dec 2020 20:15:11 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      <guid isPermaLink="true">https://static.geotribu.fr/articles/2020/2020-11-21_openstreetmap_street_complete/</guid>
+      
+      <enclosure url="https://cdn.geotribu.fr/img/articles-blog-rdp/openstreetmap/street_complete/streetcomplete_banner.png" type="image/png" length="597773" />
+      
+    </item>
+    
+    <item>
+      <title>Installer le site Geotribu comme une application</title>
+      <description>Le site de Geotribu se présente comme une PWA. Voici comment l&#39;installer comme une application (Windows 10 et Android).</description>
+      <link>https://static.geotribu.fr/articles/2020/2020-03-20_installer_site_comme_application/</link>
+      <pubDate>Sun, 27 Dec 2020 20:14:41 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      <guid isPermaLink="true">https://static.geotribu.fr/articles/2020/2020-03-20_installer_site_comme_application/</guid>
+      
+      <enclosure url="https://cdn.geotribu.fr/img/internal/install_pwa/geotribu_uninstall_pwa_win10.png" type="image/png" length="116227" />
+      
+    </item>
+    
+    <item>
+      <title>Insérer des diagrammes</title>
+      <description># Insérer des diagrammes
+
+Le site intègre la bibliothèque [MermaidJS](https://mermaid-js.github.io/mermaid/#/) qui permet de générer des diagrammes en utilisant une extension de la syntaxe Markdown.
+
+On utilise [l&#39;extension SuperFences de PyMdown](https://facelessuser.github.io/pymdown-extensions/extensions/superfences/#uml-diagram-example/).
+
+## Syntaxe
+
+Cela consiste en créant une balise de code pointant sur le langage `mermaid`, dans laquelle on insère notre syntaxe MermaidJS.
+
+### Exemple
+
+`</description>
+      <link>https://static.geotribu.fr/contribuer/guides/diagrams/</link>
+      <pubDate>Sun, 27 Dec 2020 19:55:22 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      <guid isPermaLink="true">https://static.geotribu.fr/contribuer/guides/diagrams/</guid>
+      
+    </item>
+    
+    <item>
+      <title>Arnaud Vandecasteele</title>
+      <description># Arnaud Vandecasteele
+
+![portrait](https://cdn.geotribu.fr/img/internal/contributeurs/avdc.jpg &#34;portrait&#34;){: .img-rdp-news-thumb }
+
+Bien qu&#39;issus à l&#39;origine d&#39;un parcours universitaire (doctorat et post-doc), j&#39;ai finalement tenté l&#39;aventure entrepreunariale au travers de [Geolab](http://geolab.re/). Mes principaux centres d&#39;intêrets dans le domaine de la géomatique portent sur les logiciels Open Source et plus particulièrement QGIS. J&#39;aime également le développement informatique avec une fort</description>
+      <link>https://static.geotribu.fr/team/avdc/</link>
+      <pubDate>Sun, 27 Dec 2020 19:47:54 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      <guid isPermaLink="true">https://static.geotribu.fr/team/avdc/</guid>
+      
+    </item>
+    
+    <item>
+      <title>Adrien Van Hamme</title>
+      <description># Adrien Van Hamme
+
+![portrait](https://cdn.geotribu.fr/img/internal/contributeurs/avha.jpg &#34;portrait&#34;){: .img-rdp-news-thumb }
+
+Site officiel : &lt;https://adrienvh.fr/&gt;
+
+Twitter : &lt;https://twitter.com/sigomatique&gt;
+
+!!! info
+    :moyai: Ce contributeur n&#39;est plus actif. :wave:
+</description>
+      <link>https://static.geotribu.fr/team/avha/</link>
+      <pubDate>Sun, 27 Dec 2020 19:47:54 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      <guid isPermaLink="true">https://static.geotribu.fr/team/avha/</guid>
+      
+    </item>
+    
+    <item>
+      <title>Etienne Delay</title>
+      <description># Etienne Delay
+
+![portrait](https://cdn.geotribu.fr/img/internal/contributeurs/edel.jpg &#34;portrait&#34;){: .img-rdp-news-thumb }
+
+Je suis géographe avec une entrée en géographie sociale par la modélisation et la simulation informatique à base d&#39;agents. Je mène des recherches sur les manifestations géographiques (spatiale) de l&#39;entraide et de la coopération. J&#39;ai développé une méthodologie de recherche basée sur le travail de terrain et la modélisation d&#39;accompagnement.
+
+J&#39;ai appliqué ces méthodes à </description>
+      <link>https://static.geotribu.fr/team/edel/</link>
+      <pubDate>Sun, 27 Dec 2020 19:47:54 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      <guid isPermaLink="true">https://static.geotribu.fr/team/edel/</guid>
+      
+    </item>
+    
+    <item>
+      <title>Fabien Goblet</title>
+      <description># Fabien Goblet
+
+![portrait](https://cdn.geotribu.fr/img/internal/contributeurs/fgob.jfif &#34;portrait&#34;){: .img-rdp-news-thumb }
+
+Informaticien et géographe de formation, ~~je suis~~ j&#39;étais indépendant en base de données, webmapping, j&#39;aide à la modélisation et à la définition du besoin client, ~~je développe~~ j&#39;encadre le développement des interfaces d&#39;administration et des carto-web, je conçois des api géographiques pour les administrations, les ONG, les labos de recherche.
+Je suis maintenant r</description>
+      <link>https://static.geotribu.fr/team/fgob/</link>
+      <pubDate>Sun, 27 Dec 2020 19:47:54 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      <guid isPermaLink="true">https://static.geotribu.fr/team/fgob/</guid>
+      
+    </item>
+    
+    <item>
+      <title>Guillaume de Boyer</title>
+      <description># Guillaume de Boyer
+
+![portrait](https://cdn.geotribu.fr/img/internal/contributeurs/gdbo.jpg &#34;portrait&#34;){: .img-rdp-news-thumb }
+
+Géomaticien de formation, j’ai rejoint l’Australie en décembre 2011 avec un WHV. Après quelques mois passés à voyager, j’ai posé mes valises à Sydney où je travaille depuis septembre 2012 comme administrateur SIG dans le secteur des telecoms. Je m&#39;efforce de créer une architecture spatiale optimale pour visualiser, partager et éditer les éléments d&#39;un réseau qui reli</description>
+      <link>https://static.geotribu.fr/team/gdbo/</link>
+      <pubDate>Sun, 27 Dec 2020 19:47:54 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      <guid isPermaLink="true">https://static.geotribu.fr/team/gdbo/</guid>
+      
+    </item>
+    
+    <item>
+      <title>Jérémie Ory</title>
+      <description># Jérémie Ory
+
+![portrait](https://cdn.geotribu.fr/img/internal/contributeurs/jory.jpg &#34;portrait&#34;){: .img-rdp-news-thumb }
+
+Géographe/géomaticien de formation, j&#39;ai suivi le master SIGMA puis effectuer un doctorat et post-doc en sciences de l&#39;information géographique à l&#39;IGN.
+Je travaille actuellement dans la fonction publique territoriale sur des problématiques autour de la donnée : SIG, opendata, RGPD, etc.
+Je suis avec attention les activités des services de l’État et des CRIGEs dans le domai</description>
+      <link>https://static.geotribu.fr/team/jory/</link>
+      <pubDate>Sun, 27 Dec 2020 19:47:54 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      <guid isPermaLink="true">https://static.geotribu.fr/team/jory/</guid>
+      
+    </item>
+    
+    <item>
+      <title>Julie Pierson</title>
+      <description># Julie Pierson
+
+![portrait](https://cdn.geotribu.fr/img/internal/contributeurs/jpie.png &#34;portrait&#34;){: .img-rdp-news-thumb }
+
+&gt; Twitter : &lt;https://twitter.com/sigomatique&gt;
+
+!!! info
+    :moyai: Ce contributeur n&#39;est plus actif. :wave:
+</description>
+      <link>https://static.geotribu.fr/team/jpie/</link>
+      <pubDate>Sun, 27 Dec 2020 19:47:54 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      <guid isPermaLink="true">https://static.geotribu.fr/team/jpie/</guid>
+      
+    </item>
+    
+    <item>
+      <title>Mathieu Rajerison</title>
+      <description># Mathieu Rajerison
+
+![Mathieu Rajerison](https://cdn.geotribu.fr/img/internal/contributeurs/mraj.jpg &#34;portrait de Mathieu Rajerison&#34;){: .img-rdp-news-thumb }
+
+Agronome de formation, je travaille actuellement au Cerema, un centre d&#39;études et d&#39;expertise associé au Ministère de l&#39;Ecologie en tant qu&#39;ingénieur de données géomaticien.
+
+Je m&#39;intéresse particulièrement aux statistiques spatiales, ainsi qu&#39;aux &#34;contorsions&#34; cartographiques.
+
+J&#39;ai rejoint la GéoTribu en 2013. Les revues de presse m&#39;ont</description>
+      <link>https://static.geotribu.fr/team/mraj/</link>
+      <pubDate>Sun, 27 Dec 2020 19:47:54 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      <guid isPermaLink="true">https://static.geotribu.fr/team/mraj/</guid>
+      
+    </item>
+    
+    <item>
+      <title>Pierre Vernier</title>
+      <description># Pierre Vernier
+
+![portrait](https://cdn.geotribu.fr/img/internal/contributeurs/pver.jfif &#34;portrait&#34;){: .img-rdp-news-thumb }
+
+Géomaticien de formation, je vis à Lima au Pérou depuis octobre 2008 où je suis arrivé en tant que volontaire international pour un institut de recherche français. Depuis 2 ans je travaille comme consultant indépendant auprès d&#39;ONG ou organismes internationaux. En ce moment, je passe la majorité de mon temps à Port-au-Prince, en Haïti. J&#39;ai rejoint GéoTribu il y a un pe</description>
+      <link>https://static.geotribu.fr/team/pver/</link>
+      <pubDate>Sun, 27 Dec 2020 19:47:54 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      <guid isPermaLink="true">https://static.geotribu.fr/team/pver/</guid>
+      
+    </item>
+    
+    <item>
+      <title>Rémi Bovard</title>
+      <description># Rémi Bovard
+
+![portrait](https://cdn.geotribu.fr/img/internal/contributeurs/rbov.png &#34;portrait&#34;){: .img-rdp-news-thumb }
+
+Ingénieur en géomatique, je suis passionné par les SIG, le webmapping et tout ce qui touche de près ou de loin aux analyses spatiales et autres géotraitements. Mes outils de travail quotidiens sont QGIS, PostGIS, FME, MapFish et lorsque je développe, c&#39;est principalement en JavaScript ou en Python.
+
+J&#39;ai rejoint l&#39;équipe de GéoTribu pour apporter une touche helvétique aux r</description>
+      <link>https://static.geotribu.fr/team/rbov/</link>
+      <pubDate>Sun, 27 Dec 2020 19:47:54 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      <guid isPermaLink="true">https://static.geotribu.fr/team/rbov/</guid>
+      
+    </item>
+    
+    <item>
+      <title>Rodolphe Quiédeville</title>
+      <description># Rodolphe Quiédeville
+
+![portrait](https://cdn.geotribu.fr/img/internal/contributeurs/rqui.jfif &#34;portrait&#34;){: .img-rdp-news-thumb }
+
+Autodidacte de formation je suis venu à la géomatique par les logiciels libres, j&#39;ai fait mes premières armes avec MapServer et GRASS il y a maintenant de nombreuses années. Après une trop longue pause en dehors des cartes, j&#39;y suis revenu par le projet OpenStreetMap auquel je contribue dès que je peux. Un peu touche à tout je m&#39;intéresse aux outils libres qui éme</description>
+      <link>https://static.geotribu.fr/team/rqui/</link>
+      <pubDate>Sun, 27 Dec 2020 19:47:54 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      <guid isPermaLink="true">https://static.geotribu.fr/team/rqui/</guid>
+      
+    </item>
+    
+    <item>
+      <title>Thomas Gratier</title>
+      <description># Thomas Gratier
+
+![portrait Thomas Gratier](https://cdn.geotribu.fr/img/internal/contributeurs/tgra.png &#34;portrait Thomas Gratier&#34;){: .img-rdp-news-thumb }
+
+Géographe de formation, après quelques années tant côté gestion de projet , que côté développement Géomatique, je suis maintenant consultant SIG indépendant basé sur Nantes. Je m&#39;intéresse à tout ce qui gravite autour du web et de la cartographie. Pour cette raison, je suis un fan des bibliothèques javascript pour la cartographie et la datav</description>
+      <link>https://static.geotribu.fr/team/tgra/</link>
+      <pubDate>Sun, 27 Dec 2020 19:47:54 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      <guid isPermaLink="true">https://static.geotribu.fr/team/tgra/</guid>
+      
+    </item>
+    
+    <item>
+      <title>L&#39;équipe Geotribu</title>
+      <description>Présentation des contributeurs actifs de Geotribu et remerciements aux personnes et projets libres qui rendent l&#39;aventure possible.</description>
+      <link>https://static.geotribu.fr/team/</link>
+      <pubDate>Sun, 27 Dec 2020 19:45:18 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      <guid isPermaLink="true">https://static.geotribu.fr/team/</guid>
+      
+    </item>
+    
+    <item>
+      <title>Contribuer à Geotribu</title>
+      <description>Envie de contribuer à Geotribu ? On vous guide sur le pourquoi du comment.</description>
+      <link>https://static.geotribu.fr/contribuer/introduction/</link>
+      <pubDate>Sun, 27 Dec 2020 19:40:15 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      <guid isPermaLink="true">https://static.geotribu.fr/contribuer/introduction/</guid>
+      
+    </item>
+    
+    <item>
+      <title>Python - Configuration sur Windows et outillage</title>
+      <description>Configuration et outillage de base pour développer en Python en 2020, avec un focus sur le travail sous Windows.</description>
+      <link>https://static.geotribu.fr/articles/2020/2020-06-19_setup_python/</link>
+      <pubDate>Sun, 27 Dec 2020 18:56:00 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      <guid isPermaLink="true">https://static.geotribu.fr/articles/2020/2020-06-19_setup_python/</guid>
+      
+      <enclosure url="https://cdn.geotribu.fr/img/tuto/python_windows/python_windows_installer_path_length.jpg" type="image/jpeg" length="69519" />
+      
+    </item>
+    
+    <item>
+      <title>Installer QGIS sur Windows avec Powershell</title>
+      <description>Comment déployer automatiquement (téléchargement et installation) QGIS sur Windows avec un script Powershell (ou via chocolatey), en tirant parti des capacités de l&#39;installeur OSGeo4W.</description>
+      <link>https://static.geotribu.fr/articles/2020/2020-07-03_deploy_qgis_windows/</link>
+      <pubDate>Sun, 27 Dec 2020 18:56:00 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      <guid isPermaLink="true">https://static.geotribu.fr/articles/2020/2020-07-03_deploy_qgis_windows/</guid>
+      
+      <enclosure url="https://cdn.geotribu.fr/img/tuto/qgis_deploy_windows/qgis_deploy_win_prog_postinstall.png" type="image/png" length="171836" />
+      
+    </item>
+    
+    <item>
+      <title>Histoire de Geotribu : vie, mort et renaissance.</title>
+      <description>Invité à faire un retour d&#39;expérience sur l&#39;aventure Geotribu, voici une petite histoire du site : naissance, jeunesse, vie, mort... et renaissance en 2020. Souvenirs, souvenirs et avenir !</description>
+      <link>https://static.geotribu.fr/articles/2020/2020-08-31_geotribu_histoire/</link>
+      <pubDate>Sun, 27 Dec 2020 18:56:00 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      <guid isPermaLink="true">https://static.geotribu.fr/articles/2020/2020-08-31_geotribu_histoire/</guid>
+      
+      <enclosure url="https://cdn.geotribu.fr/img/articles-blog-rdp/geotribu/history/geotribu_frise_chrono_2006-2017.png" type="image/png" length="72015" />
+      
+    </item>
+    
+    <item>
+      <title>Le web-scraping avec Scrapy</title>
+      <description>Utiliser le web-scraping (Scrapy) pour récupérer les anciens contenus de Geotribu depuis l&#39;Internet Archive.</description>
+      <link>https://static.geotribu.fr/articles/2020/2020-09-08_web-scraping_scrapy_geotribu/</link>
+      <pubDate>Sun, 27 Dec 2020 18:56:00 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      <guid isPermaLink="true">https://static.geotribu.fr/articles/2020/2020-09-08_web-scraping_scrapy_geotribu/</guid>
+      
+      <enclosure url="https://cdn.geotribu.fr/img/tuto/webscraping/web_scraping.png" type="image/png" length="48052" />
+      
+    </item>
+    
+    <item>
+      <title>Du HTML en Markdown (et vice-versa)</title>
+      <description>Convertir les contenus récupérés de l&#39;ancien site de Geotribu en Markdown (via markdownify) : lingua franca du contenu web 2020.</description>
+      <link>https://static.geotribu.fr/articles/2020/2020-09-11_html2markdown/</link>
+      <pubDate>Sun, 27 Dec 2020 18:56:00 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      <guid isPermaLink="true">https://static.geotribu.fr/articles/2020/2020-09-11_html2markdown/</guid>
+      
+      <enclosure url="https://cdn.geotribu.fr/img/tuto/webscraping/web_scraping.png" type="image/png" length="48052" />
+      
+    </item>
+    
+    <item>
+      <title>Tutoriel de prise en main du logiciel de rendu 3D Aerialod</title>
+      <description>Concepts de base et exemples de paramétrage et de rendu sur aerialod (cartographie 3D).</description>
+      <link>https://static.geotribu.fr/articles/2020/2020-09-20_tutorial_aerialod/</link>
+      <pubDate>Sun, 27 Dec 2020 18:56:00 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      <guid isPermaLink="true">https://static.geotribu.fr/articles/2020/2020-09-20_tutorial_aerialod/</guid>
+      
+      <enclosure url="https://cdn.geotribu.fr/img/tuto/aerialod/oceania_aerialod.jpg" type="image/jpeg" length="161218" />
+      
+    </item>
+    
+    <item>
+      <title>Revue de presse du 30 avril 2020</title>
+      <description>GeoRDP du 30 avril 2020 : première revue de presse de Geotribu après des années de pause.</description>
+      <link>https://static.geotribu.fr/rdp/2020/rdp_2020-04-30/</link>
+      <pubDate>Sun, 27 Dec 2020 18:56:00 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2020/rdp_2020-04-30/</guid>
+      
+      <enclosure url="https://cdn.geotribu.fr/img/articles-blog-rdp/capture-ecran/carte_escande_migrations_par-tous-les-chemins.jpg" type="image/jpeg" length="118037" />
+      
+    </item>
+    
+    <item>
+      <title>Revue de presse du 15 mai 2020</title>
+      <description>#GeoRDP du 15 mai 2020 : projection, GRASS, pyrosm, gdal, FME 2020, geopackage, qgis, geoserver, geomapfish</description>
+      <link>https://static.geotribu.fr/rdp/2020/rdp_2020-05-15/</link>
+      <pubDate>Sun, 27 Dec 2020 18:56:00 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2020/rdp_2020-05-15/</guid>
+      
+      <enclosure url="https://cdn.geotribu.fr/img/articles-blog-rdp/capture-ecran/mercator_scandale_bd.jpg" type="image/jpeg" length="118603" />
+      
+    </item>
+    
+    <item>
+      <title>Revue de presse du 29 mai 2020</title>
+      <description>#GeoRDP du 29 mai 2020 : après une quatorzaine de rétention réglementaire, les news géomatique sont lâchées.</description>
+      <link>https://static.geotribu.fr/rdp/2020/rdp_2020-05-29/</link>
+      <pubDate>Sun, 27 Dec 2020 18:56:00 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2020/rdp_2020-05-29/</guid>
+      
+      <enclosure url="https://cdn.geotribu.fr/img/articles-blog-rdp/capture-ecran/lune_carte_geologique_usgs_2020.jpg" type="image/jpeg" length="437054" />
+      
+    </item>
+    
+    <item>
+      <title>Revue de presse du 12 juin 2020</title>
+      <description>GeoRDP du 12 juin 2020 : mots-croisés géographiques et quel est le serveur géospatial le plus répandu ?</description>
+      <link>https://static.geotribu.fr/rdp/2020/rdp_2020-06-12/</link>
+      <pubDate>Sun, 27 Dec 2020 18:56:00 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2020/rdp_2020-06-12/</guid>
+      
+      <enclosure url="https://cdn.geotribu.fr/img/articles-blog-rdp/capture-ecran/geoseer_analisis_geospatial_servers_propr_vs_foss.png" type="image/png" length="13025" />
+      
+    </item>
+    
+    <item>
+      <title>Revue de presse du 26 Juin 2020</title>
+      <description>Revue de presse géomatique du 26 juin 2020 : QGIS 3.14, Mapillary rachetée par Facebook, webinaires Isogeo, certaes du confinement de Bloomberg</description>
+      <link>https://static.geotribu.fr/rdp/2020/rdp_2020-06-26/</link>
+      <pubDate>Sun, 27 Dec 2020 18:56:00 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2020/rdp_2020-06-26/</guid>
+      
+    </item>
+    
+    <item>
+      <title>Revue de presse du 10 juillet 2020</title>
+      <description>Revue de presse géomatique du 10 juillet 2020 : éditeur OSM en Python, flux RSS Geotribu, Landsat dans le cloud, vision sur le futur du SIG open source, 16è conférence gvSIG</description>
+      <link>https://static.geotribu.fr/rdp/2020/rdp_2020-07-10/</link>
+      <pubDate>Sun, 27 Dec 2020 18:56:00 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2020/rdp_2020-07-10/</guid>
+      
+      <enclosure url="https://cdn.geotribu.fr/img/articles-blog-rdp/capture-ecran/osmapy.png" type="image/png" length="768315" />
+      
+    </item>
+    
+    <item>
+      <title>Revue de presse du 24 juillet 2020</title>
+      <description>Revue de presse géomatique (GeoRDP) du 24 juillet 2020 : API QGIS unifiée, carte de l&#39;univers, néologismes, animation 3D avec R stats, GeoDataDays, Uber et Google Maps, valeur économique de l&#39;information géographique, présentation de Kalisio, etc.</description>
+      <link>https://static.geotribu.fr/rdp/2020/rdp_2020-07-24/</link>
+      <pubDate>Sun, 27 Dec 2020 18:56:00 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2020/rdp_2020-07-24/</guid>
+      
+      <enclosure url="https://raw.githubusercontent.com/tylermorganwall/rayshader/master/man/figures/smallfeature.png" type="image/png" length="321039" />
+      
+    </item>
+    
+    <item>
+      <title>Revue de presse du 7 août 2020</title>
+      <description>Revue de presse géomatique du 7 août 2020 (#GeoRDP) : OpenLayers 6.4, pgRouting 3.1, nouveau site GRASS, impact des météorites sur Terre, le Dessus des Cartes, OSM a 16 ans, SAGEO 2021</description>
+      <link>https://static.geotribu.fr/rdp/2020/rdp_2020-08-07/</link>
+      <pubDate>Sun, 27 Dec 2020 18:56:00 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2020/rdp_2020-08-07/</guid>
+      
+      <enclosure url="https://cdn.geotribu.fr/img/articles-blog-rdp/capture-ecran/map_as_a_fish_mapporn.jfif" type="None" length="39906" />
+      
+    </item>
+    
+    <item>
+      <title>Revue de presse du 21 août 2020</title>
+      <description>Revue de presse géomatique du 21 août 2020 (#GeoRDP) : les visualisations de Craig Taylor, l&#39;accès libre (mais caché !) aux orthophographies en haute résolution de l&#39;IGN, le travail en cours sur une balise HTML map (Map4HTML ou MapML), une faute de frappe dans OSM aboutit sur une incongruité (mot compte triple) dans Flight Simulator, une Google Car arrêtée par la gendarmerie française et la finalisation de la constellation de satellites chinois BeiDou.</description>
+      <link>https://static.geotribu.fr/rdp/2020/rdp_2020-08-21/</link>
+      <pubDate>Sun, 27 Dec 2020 18:56:00 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2020/rdp_2020-08-21/</guid>
+      
+      <enclosure url="https://cdn.geotribu.fr/img/articles-blog-rdp/osm_flight_simulator_melbourde.jpeg" type="image/jpeg" length="64330" />
+      
+    </item>
+    
+    <item>
+      <title>Titre principal</title>
+      <description>Description pour le SEO.</description>
+      <link>https://static.geotribu.fr/articles/templates/template_article/</link>
+      <pubDate>Sun, 27 Dec 2020 18:52:51 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      <guid isPermaLink="true">https://static.geotribu.fr/articles/templates/template_article/</guid>
+      
+      <enclosure url="https://static.geotribu.fr/Image d'illustration de l'article qui sert ensuite dans la mise en avant : réseaux sociaux, flux RSS..." type="None" length="None" />
+      
+    </item>
+    
+    <item>
+      <title>Revue de presse du 21 août 2020</title>
+      <description>GeoRDP du 21 août 2020 : </description>
+      <link>https://static.geotribu.fr/rdp/templates/template_rdp/</link>
+      <pubDate>Sun, 27 Dec 2020 18:52:51 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      <guid isPermaLink="true">https://static.geotribu.fr/rdp/templates/template_rdp/</guid>
+      
+      <enclosure url="https://static.geotribu.fr/URL de l'image d'illustration de la RDP" type="None" length="None" />
+      
+    </item>
+    
+    <item>
+      <title>&amp;#127968; Accueil</title>
+      <description>Page d&#39;accueil de Geotribu, site indépendant de veille sur la géomatique libre. Articles, tutoriels et revues de presse (#GeoRDP) sur l&#39;information géographique.</description>
+      <link>https://static.geotribu.fr/</link>
+      <pubDate>Sun, 27 Dec 2020 18:22:54 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      <guid isPermaLink="true">https://static.geotribu.fr/</guid>
+      
+    </item>
+    
+    <item>
+      <title>Interview de David JONGLEZ</title>
+      <description># Interview de David Jonglez
+
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube-nocookie.com/embed/_n-Rkciulfs&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
+
+## Présentation générale
+
+### 1. Peux-tu te présenter brièvement (âge, études, parcours) stp ?
+
+J&amp;#39;ai 37 ans, suis natif du Nord, mais vis entre la Savoie, ma terre d&amp;#39;adoption et, Paris, pour les affaires. Etant très branché Montagne, j&amp;#39;ai souhai</description>
+      <link>https://static.geotribu.fr/articles/2013/art_2013-06-13_itw_davidjonglez/</link>
+      <pubDate>Sun, 27 Dec 2020 12:13:55 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      <guid isPermaLink="true">https://static.geotribu.fr/articles/2013/art_2013-06-13_itw_davidjonglez/</guid>
+      
+    </item>
+    
+    <item>
+      <title>Interview de Drones Crisis</title>
+      <description># Interview de Drones Crisis
+
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube-nocookie.com/embed/H2sxUHeqB8g&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
+
+## Partie 1 - Retour d&amp;#39;experience sur le projet Drone Adventures
+
+### 1. (All) Pourriez-vous svp vous présenter brièvement (âge, études, parcours, projets, produits, compétences) ?
+
+Emmanuel de Maistre : Normalien et HEC Entrepreneurs, Dirigeant et co-f</description>
+      <link>https://static.geotribu.fr/articles/2014/art_2014-08-29_itw_drones_crisis/</link>
+      <pubDate>Sun, 27 Dec 2020 12:13:55 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      <guid isPermaLink="true">https://static.geotribu.fr/articles/2014/art_2014-08-29_itw_drones_crisis/</guid>
+      
+    </item>
+    
+    <item>
+      <title>Prérequis pour la contribution</title>
+      <description>Prérequis minimaux pour contribuer à Geotribu : un compte GitHub et savoir écrire en Markdown.</description>
+      <link>https://static.geotribu.fr/contribuer/requirements/</link>
+      <pubDate>Sun, 27 Dec 2020 12:13:55 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      <guid isPermaLink="true">https://static.geotribu.fr/contribuer/requirements/</guid>
+      
+    </item>
+    
+    <item>
+      <title>Modifier un contenu depuis le site web</title>
+      <description># Modifier un contenu depuis le site web
+
+Vous voulez ajouter une précision ? Vous avez aperçu une insupportable coquille ? Une image ou un contenu intégré n&#39;apparaît pas correctement ?
+
+Voici comment corriger en quelques étapes simples et **sans rien installer**.
+
+## 1. Cliquer sur l&#39;icône d&#39;édition en haut de la page où il y a besoin d&#39;une correction
+
+![Bouton d&#39;édition d&#39;une page](https://cdn.geotribu.fr/img/internal/contribution/edit_icon_pen.png)
+
+## 2. Cela redirige (dans un ouvel onglet) </description>
+      <link>https://static.geotribu.fr/contribuer/edit/fix_content_from_website/</link>
+      <pubDate>Sun, 27 Dec 2020 12:13:55 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      <guid isPermaLink="true">https://static.geotribu.fr/contribuer/edit/fix_content_from_website/</guid>
+      
+    </item>
+    
+    <item>
+      <title>Premiers pas dans la cour des grands</title>
+      <description>Lancement du blog de Geotribu</description>
+      <link>https://static.geotribu.fr/articles/2008/art_2008-11-03/</link>
+      <pubDate>Sun, 27 Dec 2020 12:11:09 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      <guid isPermaLink="true">https://static.geotribu.fr/articles/2008/art_2008-11-03/</guid>
+      
+    </item>
+    
+    <item>
+      <title>DicoGIS : le dictionnaire de données SIG</title>
+      <description>DicoGIS, utilitaire pour générer automatiquement un dictionnaire de métadonnées sur une base SIG.</description>
+      <link>https://static.geotribu.fr/articles/2014/art_2014-09-25_dicogis/</link>
+      <pubDate>Sun, 27 Dec 2020 12:11:09 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      <guid isPermaLink="true">https://static.geotribu.fr/articles/2014/art_2014-09-25_dicogis/</guid>
+      
+    </item>
+    
+    <item>
+      <title>Sortie de l&#39;ouvrage &#39;OpenLayers 3: Beginner&amp;apos;s Guide&#39;</title>
+      <description>Sortie du livre &#39;OpenLayers 3: beginner&amp;apos;s guide&#39; auquel deux membres de Geotribu ont contribué à rédiger et relire</description>
+      <link>https://static.geotribu.fr/articles/2015/art_2015-02-04/</link>
+      <pubDate>Sun, 27 Dec 2020 12:11:09 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      <guid isPermaLink="true">https://static.geotribu.fr/articles/2015/art_2015-02-04/</guid>
+      
+    </item>
+    
+    <item>
+      <title>&#39;Ce que l&amp;apos;orientation des rues de Paris (...)&#39; : les dessous d&#39;une carte</title>
+      <description>Making-of la carte publiée dans Slate : &#39;Ce que l&#39;orientation des rues de Paris nous dit de son histoire&#39;</description>
+      <link>https://static.geotribu.fr/articles/2015/art_2015-02-16/</link>
+      <pubDate>Sun, 27 Dec 2020 12:11:09 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      <guid isPermaLink="true">https://static.geotribu.fr/articles/2015/art_2015-02-16/</guid>
+      
+    </item>
+    
+    <item>
+      <title>Rendez-vous aux GéoDataDays</title>
+      <description>On vous donne rendez-vous aux GéoDataDays 2020, les 15 et 16 septembre à Montpellier, l&#39;événement indépendant de la géomatique francophone.</description>
+      <link>https://static.geotribu.fr/articles/2020/2020-09-09_geodatadays/</link>
+      <pubDate>Sun, 27 Dec 2020 12:11:09 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      <guid isPermaLink="true">https://static.geotribu.fr/articles/2020/2020-09-09_geodatadays/</guid>
+      
+      <enclosure url="https://cdn.geotribu.fr/img/external/salons_conferences/geodatadays/2020/geodatadays_2020_banniere.jpg" type="image/jpeg" length="452027" />
+      
+    </item>
+    
+    <item>
+      <title>Signer ses contributions</title>
+      <description>Contribuer à Geotribu : comment signer ses contributions au site.</description>
+      <link>https://static.geotribu.fr/contribuer/guides/authoring/</link>
+      <pubDate>Sun, 27 Dec 2020 12:11:09 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      <guid isPermaLink="true">https://static.geotribu.fr/contribuer/guides/authoring/</guid>
+      
+    </item>
+    
+    <item>
+      <title>Revue de presse du 4 septembre 2020</title>
+      <description>GeoRDP du 4 Septembre 2020 : présentation de tegola, un serveur de tuiles vectorielles en Go, Leaflet 1.7, nid d&#39;abeilles avec Plotly, un logo pour GeoPandas, avalanche de ressources sur QGIS, Deck GL en C++, sortie du n°128 de M@ppemonde, outils de dessin dans LizMap, données de la canopée mondiale, cartographie artistique et dynamique de l&#39;évolution du glacier du Rhône, D3 en version 6</description>
+      <link>https://static.geotribu.fr/rdp/2020/rdp_2020-09-04/</link>
+      <pubDate>Sun, 27 Dec 2020 12:11:09 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2020/rdp_2020-09-04/</guid>
+      
+      <enclosure url="https://cdn.geotribu.fr/img/logos-icones/framework_os.jpeg" type="image/jpeg" length="49908" />
+      
+    </item>
+    
+    <item>
+      <title>Revue de presse du 18 Septembre 2020</title>
+      <description>GeoRDP du 18 Septembre : mise à jour de l&#39;extension QGIS cadastre, faire le choix des bonnes couleurs, visualisations autour des élections présidentielles américaines, visualisation des feux de forêt, covid19 et sport, conséquences du réchauffement climatique sur l&#39;habitabilité des Etats-Unis, quand l&#39;absence de données sur une carte les rend visibles, podcast sur être indépendant en géomatique, détection des tremblements de terre grâce aux smartphones, atlas de l&#39;Afrique par l&#39;AFD</description>
+      <link>https://static.geotribu.fr/rdp/2020/rdp_2020-09-18/</link>
+      <pubDate>Sun, 27 Dec 2020 12:11:09 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2020/rdp_2020-09-18/</guid>
+      
+      <enclosure url="https://cdn.geotribu.fr/img/articles-blog-rdp/carte_covid.jpg" type="image/jpeg" length="75592" />
+      
+    </item>
+    
+    <item>
       <title>Revue de presse du 25 décembre 2020</title>
       <description>GeoRDP du 25 décembre 2020 : la revue de presse géomatique de Geotribu pour souhaiter Joyeux Noël et bonnes fêtes !</description>
       <link>https://static.geotribu.fr/rdp/2020/rdp_2020-12-25/</link>
@@ -46,18 +665,6 @@
       <guid isPermaLink="true">https://static.geotribu.fr/rdp/2020/rdp_2020-12-25/</guid>
       
       <enclosure url="https://cdn.geotribu.fr/img/articles-blog-rdp/merry_christmas_blender.png" type="image/png" length="530787" />
-      
-    </item>
-    
-    <item>
-      <title>Revue de presse du 15 mai 2020</title>
-      <description>#GeoRDP du 15 mai 2020 : projection, GRASS, pyrosm, gdal, FME 2020, geopackage, qgis, geoserver, geomapfish</description>
-      <link>https://static.geotribu.fr/rdp/2020/rdp_2020-05-15/</link>
-      <pubDate>Thu, 24 Dec 2020 18:23:46 -0000</pubDate>
-      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
-      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2020/rdp_2020-05-15/</guid>
-      
-      <enclosure url="https://cdn.geotribu.fr/img/articles-blog-rdp/capture-ecran/mercator_scandale_bd.jpg" type="image/jpeg" length="118603" />
       
     </item>
     
@@ -88,756 +695,6 @@ Nous avons longtemps hésité avant de relayer les accusations émises à l&#39;
       <guid isPermaLink="true">https://static.geotribu.fr/rdp/2020/rdp_2020-12-11/</guid>
       
       <enclosure url="https://cdn.geotribu.fr/img/articles-blog-rdp/capture-ecran/globe_sauter.jpeg" type="image/jpeg" length="318364" />
-      
-    </item>
-    
-    <item>
-      <title>Revue de presse du 27 novembre 2020</title>
-      <description>GeoRDP du 27 novembre 2020, la revue de presse géomatique de Geotribu : PostGIS 3.1, journées QGIS francophones, les supports de différents événements, un t-shirt GDAL, l&#39;accès aux images satellites de Theia, et d&#39;autres choses encore ! </description>
-      <link>https://static.geotribu.fr/rdp/2020/rdp_2020-11-27/</link>
-      <pubDate>Fri, 27 Nov 2020 14:12:20 -0000</pubDate>
-      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
-      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2020/rdp_2020-11-27/</guid>
-      
-      <enclosure url="https://cdn.geotribu.fr/img/articles-blog-rdp/tree_canopy.png" type="image/png" length="215190" />
-      
-    </item>
-    
-    <item>
-      <title>MSCompanion, l&#39;éditeur WYSIWYG de MapFile </title>
-      <description># MSCompanion, l&#39;éditeur WYSIWYG de MapFile
-
-:calendar: Date de publication initiale : 16 avril 2009
-
-**Mots-clés :** MSCompanion | Mapfile | WYSIWYG | MapServer
-
-![globe news](https://cdn.geotribu.fr/img/internal/icons-rdp-news/world.png){: .img-rdp-news-thumb }
-
-[MSCompanion](http://code.google.com/p/mscompanion/) est un **éditeur WYSIWYG de mapfile** disponible pour Windows. Les fonctionnalités qu&#39;il propose screenshot à l&#39;appui sont des plus intéressantes. Vous pourrez en effet directement d</description>
-      <link>https://static.geotribu.fr/articles/2009/art_2009-04-16/</link>
-      <pubDate>Sun, 22 Nov 2020 10:15:25 -0000</pubDate>
-      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
-      <guid isPermaLink="true">https://static.geotribu.fr/articles/2009/art_2009-04-16/</guid>
-      
-    </item>
-    
-    <item>
-      <title>wheresthepath ou comment planifier un itinéraire</title>
-      <description># wheresthepath ou comment planifier un itinéraire
-
-:calendar: Date de publication initiale : 18 avril 2009
-
-**Mots-clés :** OpenLayers | Google Maps | wheresthepath
-
-![globe news](https://cdn.geotribu.fr/img/internal/icons-rdp-news/world.png){: .img-rdp-news-thumb }
-
-[wheresthepath](http://wheresthepath.googlepages.com/wheresthepath.htm) est une interface cartographique, mêlant habilement OpenLayers et Google Maps, dont le but est de pouvoir planifier un itinéraire ou alors d&#39;importer un fichie</description>
-      <link>https://static.geotribu.fr/articles/2009/art_2009-04-18/</link>
-      <pubDate>Sun, 22 Nov 2020 10:15:25 -0000</pubDate>
-      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
-      <guid isPermaLink="true">https://static.geotribu.fr/articles/2009/art_2009-04-18/</guid>
-      
-    </item>
-    
-    <item>
-      <title>Un annuaire orienté SIG</title>
-      <description># Un annuaire orienté SIG
-
-:calendar: Date de publication initiale : 15 mai 2009
-
-**Mots-clés :** annuaire
-
-![globe news](https://cdn.geotribu.fr/img/internal/icons-rdp-news/world.png){: .img-rdp-news-thumb }
-
-Les initiatives et les travaux de synthèse liés à la géomatique fleurissent en ce moment sur le net. Le dernier en date? [L&#39;Annuaire SIG](http://annuairesig.org/). Fruit d&#39;un travail commun entre le [ForumSIG](http://www.forumsig.org/), [GéoRézo](http://georezo.net/) et [le Petit Bazar Car</description>
-      <link>https://static.geotribu.fr/articles/2009/art_2009-05-15/</link>
-      <pubDate>Sun, 22 Nov 2020 10:15:25 -0000</pubDate>
-      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
-      <guid isPermaLink="true">https://static.geotribu.fr/articles/2009/art_2009-05-15/</guid>
-      
-    </item>
-    
-    <item>
-      <title>Mapnik, le moteur cartographique pour les perfectionnistes du graphisme</title>
-      <description># Mapnik, le moteur cartographique pour les perfectionnistes du graphisme
-
-:calendar: Date de publication initiale : 19 mai 2009
-
-**Mots-clés :** TileCache | Mapnik
-
-![mapnik-logo.png](https://cdn.geotribu.fr/img/Blog/Mapnik/mapnik-logo.png) J&#39;avoue avoir été longtemps frustré par la piètre qualité des images générées par [MapServer](http://mapserver.org/). Difficile de laisser parler sa créativité cartographique quand le rendu n&#39;est pas à la hauteur de ses espérances. C&#39;est pourquoi je me suis </description>
-      <link>https://static.geotribu.fr/articles/2009/art_2009-05-19/</link>
-      <pubDate>Sun, 22 Nov 2020 10:15:25 -0000</pubDate>
-      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
-      <guid isPermaLink="true">https://static.geotribu.fr/articles/2009/art_2009-05-19/</guid>
-      
-    </item>
-    
-    <item>
-      <title>Le partage de l&#39;information publique vu par les Etats-unis</title>
-      <description># Le partage de l&#39;information publique vu par les Etats-unis
-
-:calendar: Date de publication initiale : 25 mai 2009
-
-**Mots-clés :** data | partage
-
-![world_flag_US.png](https://cdn.geotribu.fr/img/Blog/world_flag_US.png) Monsieur Obama (avec un grand **M** svp) avait fait de la **diffusion** et du **partage** de l&#39;information publique une de ses **priorités**. Le sujet avait d&#39;ailleurs été [brièvement abordé](http://geotribu.net/node/115) lors d&#39;un précédent billet dont l&#39;élément principal à re</description>
-      <link>https://static.geotribu.fr/articles/2009/art_2009-05-25/</link>
-      <pubDate>Sun, 22 Nov 2020 10:15:25 -0000</pubDate>
-      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
-      <guid isPermaLink="true">https://static.geotribu.fr/articles/2009/art_2009-05-25/</guid>
-      
-    </item>
-    
-    <item>
-      <title>A la découverte d&#39;OpenJump</title>
-      <description># A la découverte d&#39;OpenJump
-
-:calendar: Date de publication initiale : 31 mai 2009
-
-**Mots-clés :** Java | Open Source | OpenJump | SIG
-
-![logo.png](https://cdn.geotribu.fr/img/logos-icones/logiciels_librairies/openjump.png) Ce billet fait suite à la réflexion commencée lors de la présentation du logiciel [Puzzle-Gis](http://geotribu.net/node/117) dont le but est de découvrir et comparer l&#39;offre de logiciel SIG Open Source disponible. Nous allons cette fois aborder Open Jump. A l&#39;instar de [Sky</description>
-      <link>https://static.geotribu.fr/articles/2009/art_2009-05-31/</link>
-      <pubDate>Sun, 22 Nov 2020 10:15:25 -0000</pubDate>
-      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
-      <guid isPermaLink="true">https://static.geotribu.fr/articles/2009/art_2009-05-31/</guid>
-      
-    </item>
-    
-    <item>
-      <title>PHP.JS ou vos fonctions PHP traduites en JavaScript</title>
-      <description># PHP.JS ou vos fonctions PHP traduites en JavaScript
-
-:calendar: Date de publication initiale : 02 juin 2009
-
-**Mots-clés :** PHP | JS
-
-![phpjs.png](https://cdn.geotribu.fr/img/Blog/phpJs/phpjs.png) Passer d&#39;un langage à l&#39;autre est toujours contraignant, les syntaxes ou encore la manière de nommer les variables sont différentes, les fonctions que vous utilisez dans l&#39;un ne sont pas présentes dans l&#39;autre etc...
-
-Ne serait-il pas alors agréable de disposer d&#39;une librairie regroupant la majorité</description>
-      <link>https://static.geotribu.fr/articles/2009/art_2009-06-02/</link>
-      <pubDate>Sun, 22 Nov 2020 10:15:25 -0000</pubDate>
-      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
-      <guid isPermaLink="true">https://static.geotribu.fr/articles/2009/art_2009-06-02/</guid>
-      
-    </item>
-    
-    <item>
-      <title>GeoServer bientôt en version 2.0</title>
-      <description># GeoServer bientôt en version 2.0
-
-:calendar: Date de publication initiale : 04 juin 2009
-
-**Mots-clés :** GeoServer | Open Source
-
-![logo.png](https://cdn.geotribu.fr/img/Blog/geoserver/GeoServer_logo.png)GeoServer est, comme son nom l&#39;indique, un serveur cartographique OpenSource sous licence GPL 2.0. Son développement initié par l&#39;association &#34; The Open Planning Project (TOPP)&#34; avait au départ pour objectif d&#39;offrir une suite d&#39;outils permettant de rendre la gestion de projets urbain plus tr</description>
-      <link>https://static.geotribu.fr/articles/2009/art_2009-06-04/</link>
-      <pubDate>Sun, 22 Nov 2020 10:15:25 -0000</pubDate>
-      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
-      <guid isPermaLink="true">https://static.geotribu.fr/articles/2009/art_2009-06-04/</guid>
-      
-    </item>
-    
-    <item>
-      <title>A la découverte d&#39;Udig</title>
-      <description># A la découverte d&#39;Udig
-
-:calendar: Date de publication initiale : 07 juin 2009
-
-**Mots-clés :** Open Source | SIG
-
-![udig_logo.png](https://cdn.geotribu.fr/img/Blog/udig/udig_logo.png)Nous continuons notre tour d&#39;horizon des logiciels SIG OpenSource en abordant cette fois-ci UDIG. Développé par [Refraction research](http://www.refractions.net/), il est basé sur l&#39;IDE [Eclipse](http://www.eclipse.org/). Ce dernier, bien que principalement utilisé dans le monde de la programmation a été habileme</description>
-      <link>https://static.geotribu.fr/articles/2009/art_2009-06-07/</link>
-      <pubDate>Sun, 22 Nov 2020 10:15:25 -0000</pubDate>
-      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
-      <guid isPermaLink="true">https://static.geotribu.fr/articles/2009/art_2009-06-07/</guid>
-      
-    </item>
-    
-    <item>
-      <title>L&#39;IGN met à disposition certaines de ces données</title>
-      <description># L&#39;IGN met à disposition certaines de ces données
-
-:calendar: Date de publication initiale : 01 juillet 2009
-
-**Mots-clés :** data | IGN
-
-![globe news](https://cdn.geotribu.fr/img/internal/icons-rdp-news/world.png){: .img-rdp-news-thumb } J&#39;ai souvent critiqué la politique commerciale de l&#39;IGN notamment sur le sujet de la mise à disposition gratuite et sans condition de données que je juge d&#39;ordre public (limites administratives...). C&#39;est pourquoi lorsque j&#39;ai appris par l&#39;intermédiaire du sit</description>
-      <link>https://static.geotribu.fr/articles/2009/art_2009-07-01/</link>
-      <pubDate>Sun, 22 Nov 2020 10:15:25 -0000</pubDate>
-      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
-      <guid isPermaLink="true">https://static.geotribu.fr/articles/2009/art_2009-07-01/</guid>
-      
-    </item>
-    
-    <item>
-      <title>La géomatique décisionelle, l&#39;avenir du SIG?</title>
-      <description># La géomatique décisionelle, l&#39;avenir du SIG?
-
-:calendar: Date de publication initiale : 17 juillet 2009
-
-**Mots-clés :** Open Source | BI | GeoBI | ETL | géodécisionnel
-
-![solap.png](https://cdn.geotribu.fr/img/divers/solap.png) Empruntés au monde de la **B**usiness **I**ntelligence (BI), les **S**ystèmes d&#39;**A**ide à la **D**écision (SAD) apportent aux décideurs un haut degré d&#39;abstraction facilitant ainsi le processus décisionnel. Néanmoins alors que l&#39;on assiste à une véritable explosion de</description>
-      <link>https://static.geotribu.fr/articles/2009/art_2009-07-17/</link>
-      <pubDate>Sun, 22 Nov 2020 10:15:25 -0000</pubDate>
-      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
-      <guid isPermaLink="true">https://static.geotribu.fr/articles/2009/art_2009-07-17/</guid>
-      
-    </item>
-    
-    <item>
-      <title>Les crimes et incendies s&#39;affichent en WebMapping</title>
-      <description># Les crimes et incendies s&#39;affichent en WebMapping
-
-:calendar: Date de publication initiale : 03 août 2009
-
-**Mots-clés :** WebMapping
-
-![icône globe](https://cdn.geotribu.fr/img/internal/icons-rdp-news/world.png) J&#39;ai récemment découvert deux applications cartographiques qui m&#39;ont interpellées tant par leur contenu que par le choix de leur architecture. Ainsi, au-delà de la découverte de chacune d&#39;entre elles, j&#39;effectuerai un rapide comparatif en privilégiant une approche technique..
-
-La prem</description>
-      <link>https://static.geotribu.fr/articles/2009/art_2009-08-03/</link>
-      <pubDate>Sun, 22 Nov 2020 10:15:25 -0000</pubDate>
-      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
-      <guid isPermaLink="true">https://static.geotribu.fr/articles/2009/art_2009-08-03/</guid>
-      
-    </item>
-    
-    <item>
-      <title>PuzzleGis en version 0.4</title>
-      <description># PuzzleGis en version 0.4
-
-:calendar: Date de publication initiale : 17 août 2009
-
-**Mots-clés :** Puzzle Gis | Java | Open Source
-
-![avatar7268_13.gif](http://geotribu.nethttps://cdn.geotribu.fr/img/tuto/puzzlegis/avatar7268_13.gif) Nous avions déjà eu précédemment l&#39;occasion de découvrir (cf [billet](http://geotribu.net/node/117) du 05/24/2009) le logiciel SIG [PuzzleGIS](http://puzzle-gis.codehaus.org/). Une nouvelle version (0.4) est depuis peu disponible et apporte son lot de [nouveautés](</description>
-      <link>https://static.geotribu.fr/articles/2009/art_2009-08-17/</link>
-      <pubDate>Sun, 22 Nov 2020 10:15:25 -0000</pubDate>
-      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
-      <guid isPermaLink="true">https://static.geotribu.fr/articles/2009/art_2009-08-17/</guid>
-      
-    </item>
-    
-    <item>
-      <title>A la découverte de QGIS</title>
-      <description>A la découverte de QGIS</description>
-      <link>https://static.geotribu.fr/articles/2009/art_2009-08-28/</link>
-      <pubDate>Sun, 22 Nov 2020 10:15:25 -0000</pubDate>
-      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
-      <guid isPermaLink="true">https://static.geotribu.fr/articles/2009/art_2009-08-28/</guid>
-      
-    </item>
-    
-    <item>
-      <title>1er experience d&#39;OpenStreetMap</title>
-      <description># 1er experience d&#39;OpenStreetMap
-
-:calendar: Date de publication initiale : 02 septembre 2009
-
-**Mots-clés :** data | OpenStreetMap | Open Source
-
-![OSM_logo.png](https://cdn.geotribu.fr/img/logos-icones/OpenStreetMap/Openstreetmap.png) Cela faisait longtemps que l&#39;envie de m&#39;impliquer dans le projet **O**pen**S**treet**M**ap (OSM) me titillait. Profitant donc de mes congés, j&#39;ai pu faire mes 1ers pas de &#34;mappeur de la route&#34;. Sur les aspects théoriques, le fait que je vienne du monde de la géom</description>
-      <link>https://static.geotribu.fr/articles/2009/art_2009-09-02/</link>
-      <pubDate>Sun, 22 Nov 2020 10:15:25 -0000</pubDate>
-      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
-      <guid isPermaLink="true">https://static.geotribu.fr/articles/2009/art_2009-09-02/</guid>
-      
-    </item>
-    
-    <item>
-      <title>1er impressions de QGis 1.2.0 - Daphnis</title>
-      <description># 1er impressions de QGis 1.2.0 - Daphnis
-
-:calendar: Date de publication initiale : 09 septembre 2009
-
-**Mots-clés :** Open Source | QGIS | logiciel | Python
-
-![qgis.png](https://cdn.geotribu.fr/img/logos-icones/logiciels_librairies/qgis.png)Suite à [l&#39;annonce](http://geotribu.net/node/154) de la nouvelle version de QGis (1.2.0) et après avoir installé celle-ci, j&#39;ai réalisé quelques rapides tests et vous livre ici mes impressions.
-
-### Mise à jour ou installation
-
-La nouvelle version de QGis e</description>
-      <link>https://static.geotribu.fr/articles/2009/art_2009-09-09/</link>
-      <pubDate>Sun, 22 Nov 2020 10:15:25 -0000</pubDate>
-      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
-      <guid isPermaLink="true">https://static.geotribu.fr/articles/2009/art_2009-09-09/</guid>
-      
-    </item>
-    
-    <item>
-      <title>Créer son propre plan de ville grace à MapOSMatic</title>
-      <description># Créer son propre plan de ville grace à MapOSMatic
-
-:calendar: Date de publication initiale : 11 septembre 2009
-
-**Mots-clés :** data | OpenStreetMap | Open Source
-
-![OSM_logo.png](https://cdn.geotribu.fr/img/logos-icones/OpenStreetMap/Openstreetmap.png) Il existe de nombreuses manières d&#39;exploiter les données d&#39;OSM! Si [les exemples les plus courants](http://wiki.openstreetmap.org/wiki/Featured_image_proposals) se font sous la forme d&#39;interfaces cartographiques Web, il existe néanmoins d&#39;autre</description>
-      <link>https://static.geotribu.fr/articles/2009/art_2009-09-11/</link>
-      <pubDate>Sun, 22 Nov 2020 10:15:25 -0000</pubDate>
-      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
-      <guid isPermaLink="true">https://static.geotribu.fr/articles/2009/art_2009-09-11/</guid>
-      
-    </item>
-    
-    <item>
-      <title>GlobeRacers, un nouveau jeu pour geomaticien écologique</title>
-      <description># GlobeRacers, un nouveau jeu pour geomaticien écologique
-
-:calendar: Date de publication initiale : 27 septembre 2009
-
-**Mots-clés :** JavaScript | Google
-
-![icône globe](https://cdn.geotribu.fr/img/internal/icons-rdp-news/world.png) Quand le ludique s&#39;allie au jeu cela forme [globeracers](http://www.globeracers.net/index.php?option=com_frontpage&amp;Itemid=1). Le but de ce dernier est de parcourir le monde, le plus rapidement possible, afin de récupérer des statuettes disposées dans 10 métropole d</description>
-      <link>https://static.geotribu.fr/articles/2009/art_2009-09-27/</link>
-      <pubDate>Sun, 22 Nov 2020 10:15:25 -0000</pubDate>
-      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
-      <guid isPermaLink="true">https://static.geotribu.fr/articles/2009/art_2009-09-27/</guid>
-      
-    </item>
-    
-    <item>
-      <title>Les cartes d&#39;OSM enrichies des données de Corine Land Cover</title>
-      <description># Les cartes d&#39;OSM enrichies des données de Corine Land Cover
-
-:calendar: Date de publication initiale : 10 octobre 2009
-
-**Mots-clés :** data | OpenStreetMap | Open Source
-
-![OSM_logo.png](https://cdn.geotribu.fr/img/logos-icones/OpenStreetMap/Openstreetmap.png) Pour les habitués d&#39;OpenStreetMap, vous avez sûrement remarqué que le fond cartographique à été considérablement enrichie, plus de forêts, de zones urbaines... En effet, les données [Corine Land Cover](http://www.ifen.fr/index.php?id=88</description>
-      <link>https://static.geotribu.fr/articles/2009/art_2009-10-10/</link>
-      <pubDate>Sun, 22 Nov 2020 10:15:25 -0000</pubDate>
-      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
-      <guid isPermaLink="true">https://static.geotribu.fr/articles/2009/art_2009-10-10/</guid>
-      
-    </item>
-    
-    <item>
-      <title>gvSIG Mini, une application SIG pour votre téléphone portable</title>
-      <description># gvSIG Mini, une application SIG pour votre téléphone portable
-
-:calendar: Date de publication initiale : 28 octobre 2009
-
-**Mots-clés :** Open Source | SIG | gvSIG
-
-![logo-gvsig_150_14.gif](http://geotribu.net/sites/default/files/Tuto/img/divers/logo-gvsig_150_14.gif) Le nom [gvSIG](http://www.gvsig.gva.es/) ne vous est sûrement pas inconnu. En effet, c&#39;est l&#39;un des logiciels phares du monde SIG OpenSource. Celui-ci, jusqu&#39;à récemment, n&#39;était disponible que sous la forme d&#39;une application lou</description>
-      <link>https://static.geotribu.fr/articles/2009/art_2009-10-28/</link>
-      <pubDate>Sun, 22 Nov 2020 10:15:25 -0000</pubDate>
-      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
-      <guid isPermaLink="true">https://static.geotribu.fr/articles/2009/art_2009-10-28/</guid>
-      
-    </item>
-    
-    <item>
-      <title>Le meilleur d&#39;OpenStreetMap sur Best Of OSM</title>
-      <description># Le meilleur d&#39;OpenStreetMap sur Best Of OSM
-
-:calendar: Date de publication initiale : 04 novembre 2009
-
-**Mots-clés :** OpenStreetMap | Open Source
-
-![OSM_logo.png](https://cdn.geotribu.fr/img/logos-icones/OpenStreetMap/Openstreetmap.png)Développé par GeoFabrik, [Best Of OSM](http://bestofosm.org/) est, en quelque sorte, une vitrine des plus belles zones d&#39;OpenStreetMap. Mais sont également présentés les lieux importants dans l&#39;histoire d&#39;OSM, les données importées (ex : Corine Land Cover) ai</description>
-      <link>https://static.geotribu.fr/articles/2009/art_2009-11-04/</link>
-      <pubDate>Sun, 22 Nov 2020 10:15:25 -0000</pubDate>
-      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
-      <guid isPermaLink="true">https://static.geotribu.fr/articles/2009/art_2009-11-04/</guid>
-      
-    </item>
-    
-    <item>
-      <title>OGR2GUI passe en version 0.6</title>
-      <description># OGR2GUI passe en version 0.6
-
-:calendar: Date de publication initiale : 09 novembre 2009
-
-**Mots-clés :** Open Source
-
-![logo OpenSource](https://cdn.geotribu.fr/img/logos-icones/opensource.png &#34;Logo Open Source Foundation&#34;){: .img-rdp-news-thumb } [GDAL-OGR](http://www.gdal.org/index.html) est l&#39;une voir **LA** bibliothèque de conversion de formats géographiques. Malheureusement, du fait de son utilisation en ligne de commande, celle-ci peut décourager certains géomaticiens un peu allergiques</description>
-      <link>https://static.geotribu.fr/articles/2009/art_2009-11-09/</link>
-      <pubDate>Sun, 22 Nov 2020 10:15:25 -0000</pubDate>
-      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
-      <guid isPermaLink="true">https://static.geotribu.fr/articles/2009/art_2009-11-09/</guid>
-      
-    </item>
-    
-    <item>
-      <title>MapFish et GeoServer débutent leur processus d&#39;incubation</title>
-      <description># MapFish et GeoServer débutent leur processus d&#39;incubation
-
-:calendar: Date de publication initiale : 11 novembre 2009
-
-**Mots-clés :** Open Source | OSGeo
-
-![logo_osgeo.png](http://geotribu.net/sites/default/files/Tuto/img/Blog/divers/logo_osgeo.png)Bien qu&#39;en discussion depuis longtemps, [MapFish](http://www.mapfish.org/) et [GeoServer](http://geoserver.org/display/GEOS/Welcome) débutent officiellement leur processus d&#39;incubation. Cela leur permettra d&#39;être labellisés [OSGEO](http://www.osgeo</description>
-      <link>https://static.geotribu.fr/articles/2009/art_2009-11-11/</link>
-      <pubDate>Sun, 22 Nov 2020 10:15:25 -0000</pubDate>
-      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
-      <guid isPermaLink="true">https://static.geotribu.fr/articles/2009/art_2009-11-11/</guid>
-      
-    </item>
-    
-    <item>
-      <title>Une carte du WebMapping OpenSource</title>
-      <description># Une carte du WebMapping OpenSource
-
-:calendar: Date de publication initiale : 15 novembre 2009
-
-**Mots-clés :** Open Source | WebMapping
-
-![logo OpenSource](https://cdn.geotribu.fr/img/logos-icones/opensource.png &#34;Logo Open Source Foundation&#34;){: .img-rdp-news-thumb } Le monde du GeoWeb regorge d&#39;un nombre important de librairies OpenSource. De ce fait, il peut être parfois difficile de s&#39;y retrouver et surtout de comprendre leur interconnexion. D&#39;autant plus que la tendance est à la spécialisa</description>
-      <link>https://static.geotribu.fr/articles/2009/art_2009-11-15/</link>
-      <pubDate>Sun, 22 Nov 2020 10:15:25 -0000</pubDate>
-      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
-      <guid isPermaLink="true">https://static.geotribu.fr/articles/2009/art_2009-11-15/</guid>
-      
-    </item>
-    
-    <item>
-      <title>Panel de mashups Google Maps</title>
-      <description># Panel de mashups Google Maps
-
-:calendar: Date de publication initiale : 23 novembre 2009
-
-**Mots-clés :** Google Maps | mashups
-
-![](https://cdn.geotribu.fr/img/logos-icones/entreprises_association/google/google_maps.png) Est-il encore besoin de préciser ce que permet l&#39;API Google Maps? Comme vous avez pu le découvrir au travers de nos [tutoriels](http://geotribu.net/node/22), cette dernière permet d&#39;intégrer rapidement et facilement des cartes dans une page Internet. Néanmoins si habituelleme</description>
-      <link>https://static.geotribu.fr/articles/2009/art_2009-11-23/</link>
-      <pubDate>Sun, 22 Nov 2020 10:15:25 -0000</pubDate>
-      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
-      <guid isPermaLink="true">https://static.geotribu.fr/articles/2009/art_2009-11-23/</guid>
-      
-    </item>
-    
-    <item>
-      <title>A la découverte d&#39;OrbisGis</title>
-      <description># A la découverte d&#39;OrbisGis
-
-:calendar: Date de publication initiale : 26 novembre 2009
-
-**Mots-clés :** Open Source | SIG
-
-![orbigis_logo.png](http://geotribu.net/sites/default/files/Tuto/img/Blog/orbisgis/orbigis_logo.png)Après avoir successivement exploré [PuzzleGis](http://geotribu.net/node/117), [OpenJump](http://geotribu.net/node/120), [UDIG](http://geotribu.net/node/126) et enfin [Qgis](http://geotribu.net/node/152) nous découvrirons au cours de ce billet [OrbisGis](http://brehat.ec-nant</description>
-      <link>https://static.geotribu.fr/articles/2009/art_2009-11-26/</link>
-      <pubDate>Sun, 22 Nov 2020 10:15:25 -0000</pubDate>
-      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
-      <guid isPermaLink="true">https://static.geotribu.fr/articles/2009/art_2009-11-26/</guid>
-      
-    </item>
-    
-    <item>
-      <title>Sortie de QGIS 1.4.0 &#39;Enceladus&#39;</title>
-      <description># Sortie de QGIS 1.4.0 &#39;Enceladus&#39;
-
-:calendar: Date de publication initiale : 18 janvier 2010
-
-**Mots-clés :** Open Source | QGIS | logiciel
-
-![qgis.png](https://cdn.geotribu.fr/img/logos-icones/logiciels_librairies/qgis.png)[Annoncée officiellement](http://blog.qgis.org/node/142) il y a quelques jours, la nouvelle version de Qgis, dénommée &#39;Enceladus&#39;, est disponible en [téléchargement](http://download.qgis.org/). Les efforts de développement continuent à être portés sur l&#39;amélioration de l&#39;int</description>
-      <link>https://static.geotribu.fr/articles/2010/art_2010-01-18/</link>
-      <pubDate>Sun, 22 Nov 2020 10:15:25 -0000</pubDate>
-      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
-      <guid isPermaLink="true">https://static.geotribu.fr/articles/2010/art_2010-01-18/</guid>
-      
-    </item>
-    
-    <item>
-      <title>OpenGeo Suite en version 1.0, tests et impressions</title>
-      <description># OpenGeo Suite en version 1.0, tests et impressions
-
-:calendar: Date de publication initiale : 04 février 2010
-
-**Mots-clés :** OpenSource | WebMapping | logiciel
-
-![opengeosuite-sm.png](http://geotribu.net/sites/default/files/Tuto/img/Blog/geoserver/opengeo/opengeosuite-sm.png)Que de chemin parcouru depuis 2001, date du lancement du projet [GeoServer](http://geoserver.org/display/GEOS/Welcome), par l&#39;équipe d&#39;[OpenGeo](http://opengeo.org). En effet, il y a à peine quelques jours cette dernière</description>
-      <link>https://static.geotribu.fr/articles/2010/art_2010-02-04/</link>
-      <pubDate>Sun, 22 Nov 2020 10:15:25 -0000</pubDate>
-      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
-      <guid isPermaLink="true">https://static.geotribu.fr/articles/2010/art_2010-02-04/</guid>
-      
-    </item>
-    
-    <item>
-      <title>MapChat, ou la Géocollaboration OpenSource</title>
-      <description># MapChat, ou la Géocollaboration OpenSource
-
-:calendar: Date de publication initiale : 15 février 2010
-
-**Mots-clés :** Open Source | GeoCollaboration
-
-![logo_mapchat.jpg](http://geotribu.net/sites/default/files/Tuto/img/mapchat/logo_mapchat.jpg)Lors du précédent [billet](http://geotribu.net/node/212), nous avions rapidement abordé la notion de GéoCollaboration. Il est temps de mettre en application cette notion que nous illustrons avec l&#39;application [MapChat](http://mapchat.ca/) dont l&#39;objecti</description>
-      <link>https://static.geotribu.fr/articles/2010/art_2010-02-15/</link>
-      <pubDate>Sun, 22 Nov 2020 10:15:25 -0000</pubDate>
-      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
-      <guid isPermaLink="true">https://static.geotribu.fr/articles/2010/art_2010-02-15/</guid>
-      
-    </item>
-    
-    <item>
-      <title>Les ETL spatiaux OpenSource, à pieds joints dans l&#39;informatique GéoDécisionnelle </title>
-      <description># Les ETL spatiaux OpenSource, à pieds joints dans l&#39;informatique GéoDécisionnelle
-
-:calendar: Date de publication initiale : 02 mars 2010
-
-**Mots-clés :** Open Source | logiciel | BI | géodécisionnel
-
-![](http://geotribu.net/sites/default/files/Tuto/img/divers/solap.png)Les outils d&#39;extraction, de transformations et de chargement de données (Extract, transform and load - ETL) constituent le premier maillon (fig 1) de la chaine décisionnelle également nommée Business intelligence (BI). Longtemps</description>
-      <link>https://static.geotribu.fr/articles/2010/art_2010-03-02/</link>
-      <pubDate>Sun, 22 Nov 2020 10:15:25 -0000</pubDate>
-      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
-      <guid isPermaLink="true">https://static.geotribu.fr/articles/2010/art_2010-03-02/</guid>
-      
-    </item>
-    
-    <item>
-      <title>Linux sans contrainte grace à VirtualBox</title>
-      <description># Linux sans contrainte grace à VirtualBox
-
-:calendar: Date de publication initiale : 11 mars 2010
-
-**Mots-clés :** Open Source | Linux
-
-![icône globe](https://cdn.geotribu.fr/img/internal/icons-rdp-news/world.png)Il peut être agréable, quand vous testez de nouvelles applications, de ne pas avoir à les installer sur votre environnement de travail. En effet, il peut arriver que celles-ci ne soient pas encore complètement stables ou bien qu&#39;il soit nécessaire de les compiler.  
-De ce fait, cela pe</description>
-      <link>https://static.geotribu.fr/articles/2010/art_2010-03-11/</link>
-      <pubDate>Sun, 22 Nov 2020 10:15:25 -0000</pubDate>
-      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
-      <guid isPermaLink="true">https://static.geotribu.fr/articles/2010/art_2010-03-11/</guid>
-      
-    </item>
-    
-    <item>
-      <title>L&#39;API du GéoPortail passe en version 1.0</title>
-      <description># L&#39;API du GéoPortail passe en version 1.0
-
-:calendar: Date de publication initiale : 17 mars 2010
-
-**Mots-clés :** JavaScript | API | WebMapping
-
-![logo.gif](https://cdn.geotribu.fr/img/Blog/IGN/logo.gif)L&#39;API cartographique de l&#39;Institut Géographique National (IGN) passe du statut de bêta au statut de release officielle. La version 1.0 a en effet été [annoncée](https://api.ign.fr/geoportail/document.do?doc=6133116) aujourd&#39;hui (16 Mars 2010).
-
-De nouvelles fonctionnalités ont été apportées ave</description>
-      <link>https://static.geotribu.fr/articles/2010/art_2010-03-17/</link>
-      <pubDate>Sun, 22 Nov 2020 10:15:25 -0000</pubDate>
-      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
-      <guid isPermaLink="true">https://static.geotribu.fr/articles/2010/art_2010-03-17/</guid>
-      
-    </item>
-    
-    <item>
-      <title>Vers un rapprochement d&#39;OSM-fr et de l&#39;OSGEO-fr ?</title>
-      <description># Vers un rapprochement d&#39;OSM-fr et de l&#39;OSGEO-fr ?
-
-:calendar: Date de publication initiale : 18 mars 2010
-
-**Mots-clés :** Open Source | communauté
-
-![osm_osgeo.png](https://cdn.geotribu.fr/img/divers/osm_osgeo.png)L&#39;idée de créer une association OSM-fr n&#39;est pas nouvelle. Elle fait partie de ces vieux dossiers qui ressortent régulièrement du placard mais sans trouver, au final, de consensus. Il y a quelques semaines cette [](http:%20%20&lt;span%20id=)
-
-&lt;!-- document.getElementById(&#39;7fcabfe4911af</description>
-      <link>https://static.geotribu.fr/articles/2010/art_2010-03-18/</link>
-      <pubDate>Sun, 22 Nov 2020 10:15:25 -0000</pubDate>
-      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
-      <guid isPermaLink="true">https://static.geotribu.fr/articles/2010/art_2010-03-18/</guid>
-      
-    </item>
-    
-    <item>
-      <title>OpenLayers en 3D</title>
-      <description># OpenLayers en 3D
-
-:calendar: Date de publication initiale : 06 avril 2010
-
-**Mots-clés :** OpenLayers | JavaScript | Open Source
-
-![Logo OpenLayers](http://geotribu.net/https://cdn.geotribu.fr/img/logos-icones/logiciels_librairies/openlayers.png)C&#39;est fou ce qu&#39;il est possible de faire maintenant avec un peu de JavaScript. Le cube en 3D, présenté ci-dessous, a été réalisé avec [OpenLayers](https://openlayers.org/) et [cssSandPaper](http://www.useragentman.com/blog/2010/03/09/cross-browser-css-</description>
-      <link>https://static.geotribu.fr/articles/2010/art_2010-04-06/</link>
-      <pubDate>Sun, 22 Nov 2020 10:15:25 -0000</pubDate>
-      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
-      <guid isPermaLink="true">https://static.geotribu.fr/articles/2010/art_2010-04-06/</guid>
-      
-    </item>
-    
-    <item>
-      <title>Arramagong en version 3.0</title>
-      <description># Arramagong en version 3.0
-
-:calendar: Date de publication initiale : 12 avril 2010
-
-**Mots-clés :** Open Source | virtualisation
-
-![arramagong.bmp](http://geotribu.net/sites/default/files/Tuto/img/Blog/divers/arramagong.bmp)Il y a peu, nous vous avions présenté [Arramagong](http://www.arramagong.com/Arramagong/home.html) qui permet de disposer d&#39;un environnement virtuel complètement orienté SIG (cf [billet](http://geotribu.net/node/231)). Cette [initiative](http://wiki.osgeo.org/wiki/Live_GIS_</description>
-      <link>https://static.geotribu.fr/articles/2010/art_2010-04-12/</link>
-      <pubDate>Sun, 22 Nov 2020 10:15:25 -0000</pubDate>
-      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
-      <guid isPermaLink="true">https://static.geotribu.fr/articles/2010/art_2010-04-12/</guid>
-      
-    </item>
-    
-    <item>
-      <title>Profil type d&#39;un utilisateur d&#39;OpenStreetMap</title>
-      <description># Profil type d&#39;un utilisateur d&#39;OpenStreetMap
-
-:calendar: Date de publication initiale : 15 avril 2010
-
-**Mots-clés :** OpenStreetMap | VGI | Information géographique Volontaire
-
-![OSM_logo.png](https://cdn.geotribu.fr/img/logos-icones/OpenStreetMap/Openstreetmap.png) Il y a quelques semaines en parcourant les différents flux rss auxquels je suis abonné, j&#39;étais tombé sur un billet du site [kelsocartography](http://kelsocartography.com/blog/?p=3476) listant les différentes interventions présent</description>
-      <link>https://static.geotribu.fr/articles/2010/art_2010-04-15/</link>
-      <pubDate>Sun, 22 Nov 2020 10:15:25 -0000</pubDate>
-      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
-      <guid isPermaLink="true">https://static.geotribu.fr/articles/2010/art_2010-04-15/</guid>
-      
-    </item>
-    
-    <item>
-      <title>OpenLayers en version 2.9</title>
-      <description># OpenLayers en version 2.9
-
-:calendar: Date de publication initiale : 26 avril 2010
-
-**Mots-clés :** OpenLayers | JavaScript | Open Source
-
-![Logo OpenLayers](http://geotribu.net/https://cdn.geotribu.fr/img/logos-icones/logiciels_librairies/openlayers.png) Ca y&#39;est, [l&#39;annonce officielle](http://lists.osgeo.org/pipermail/announce/2010-April/000150.html) a été faite, la librairie [OpenLayers](https://openlayers.org/) est maintenant passée en version 2.9. Celle-ci clôt près de 200 tickets et prop</description>
-      <link>https://static.geotribu.fr/articles/2010/art_2010-04-26/</link>
-      <pubDate>Sun, 22 Nov 2020 10:15:25 -0000</pubDate>
-      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
-      <guid isPermaLink="true">https://static.geotribu.fr/articles/2010/art_2010-04-26/</guid>
-      
-    </item>
-    
-    <item>
-      <title>Les rencontres SIG la lettre, un événement réussi</title>
-      <description># Les rencontres SIG la lettre, un événement réussi
-
-:calendar: Date de publication initiale : 11 mai 2010
-
-**Mots-clés :** SIG la lettre | Rencontre | Colloque
-
-![30575541:avatar_medium.jpg](https://cdn.geotribu.fr/img/Blog/divers/30575541%3Aavatar_medium.jpg)C&#39;est dans les locaux de l&#39;[Ecole Nationale des Sciences Géographiques](http://www.ensg.eu/) (ENSG) que s&#39;est tenue la seconde édition des [rencontres SIG la Lettre](http://www.rencontres-sig-la-lettre.fr/). Cet événement, unique sur le te</description>
-      <link>https://static.geotribu.fr/articles/2010/art_2010-05-11/</link>
-      <pubDate>Sun, 22 Nov 2020 10:15:25 -0000</pubDate>
-      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
-      <guid isPermaLink="true">https://static.geotribu.fr/articles/2010/art_2010-05-11/</guid>
-      
-    </item>
-    
-    <item>
-      <title>Initiation à la cartographie collaborative le Samedi 26 Juin à la Maison de la Télédétection</title>
-      <description># Initiation à la cartographie collaborative le Samedi 26 Juin à la Maison de la Télédétection
-
-:calendar: Date de publication initiale : 02 juin 2010
-
-**Mots-clés :** OpenStreetMap | Open Source
-
-![osm_osgeo.png](https://cdn.geotribu.fr/img/divers/osm_osgeo.png)Suite au rapprochement probable (je l&#39;espère) d&#39;OSM-fr et de de l&#39;OSGEO une réunion d&#39;information aura lieu à la maison de la télédétection le Samedi 26 Juin.  
-Celle-ci sera également l&#39;occasion, pour les personnes désireuse de connaitr</description>
-      <link>https://static.geotribu.fr/articles/2010/art_2010-06-02/</link>
-      <pubDate>Sun, 22 Nov 2020 10:15:25 -0000</pubDate>
-      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
-      <guid isPermaLink="true">https://static.geotribu.fr/articles/2010/art_2010-06-02/</guid>
-      
-    </item>
-    
-    <item>
-      <title>Ça bouge dans le monde du GeoBI</title>
-      <description># Ça bouge dans le monde du GeoBI
-
-:calendar: Date de publication initiale : 22 juin 2010
-
-**Mots-clés :** Open Source | BI | GeoBI | ETL | géodécisionnel
-
-![](http://geotribu.net/sites/default/files/Tuto/img/divers/solap.png)Le monde du GeoBI OpenSource a été, ces derniers jours, particulièrement actif. En effet, entre la sortie de nouvelles versions de logiciels et la création de nouveaux partenariats ce sont au total quatres nouvelles qui seront présentées dans ce billet. Tout d&#39;abord, nous c</description>
-      <link>https://static.geotribu.fr/articles/2010/art_2010-06-22/</link>
-      <pubDate>Sun, 22 Nov 2020 10:15:25 -0000</pubDate>
-      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
-      <guid isPermaLink="true">https://static.geotribu.fr/articles/2010/art_2010-06-22/</guid>
-      
-    </item>
-    
-    <item>
-      <title>osmtracker-android où comment disposez d&#39;OpenStreetMap sur Android</title>
-      <description># osmtracker-android où comment disposez d&#39;OpenStreetMap sur Android
-
-:calendar: Date de publication initiale : 06 juillet 2010
-
-**Mots-clés :** Open Source | Android | OSM
-
-![logo Android](https://cdn.geotribu.fr/img/logos-icones/android.jpg){: .img-rdp-news-thumb }Heureux possesseur d&#39;un téléphone équipé de la platefome Android, je cherchais, depuis longtemps, une application me permettant d&#39;utiliser ce périphérique comme outil de saisie de données pour [OpenStreetMap](https://www.openstreetma</description>
-      <link>https://static.geotribu.fr/articles/2010/art_2010-07-06/</link>
-      <pubDate>Sun, 22 Nov 2020 10:15:25 -0000</pubDate>
-      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
-      <guid isPermaLink="true">https://static.geotribu.fr/articles/2010/art_2010-07-06/</guid>
-      
-    </item>
-    
-    <item>
-      <title>Modélisation d&#39;une base de données avec SQL Power Architect</title>
-      <description># Modélisation d&#39;une base de données avec SQL Power Architect
-
-:calendar: Date de publication initiale : 15 juillet 2010
-
-**Mots-clés :** Open Source | Database | Modelisation
-
-Dans le cadre de mon activité professionnelle, j&#39;avais besoin de modéliser une base de données et d&#39;importer des données d&#39;une base access ([base gaspar](http://macommune.prim.net/gaspar/)) vers une base PostgreSQL. Plutôt que de faire tout cela à la main, j&#39;ai cherché à optimiser et surtout automatiser au maximum les dif</description>
-      <link>https://static.geotribu.fr/articles/2010/art_2010-07-15/</link>
-      <pubDate>Sun, 22 Nov 2020 10:15:25 -0000</pubDate>
-      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
-      <guid isPermaLink="true">https://static.geotribu.fr/articles/2010/art_2010-07-15/</guid>
-      
-    </item>
-    
-    <item>
-      <title>Allégez votre librairie OpenLayers avec openlayerer</title>
-      <description># Allégez votre librairie OpenLayers avec openlayerer
-
-:calendar: Date de publication initiale : 30 septembre 2010
-
-**Mots-clés :** OpenLayers | JavaScript | Open Source
-
-![Logo OpenLayers](https://cdn.geotribu.fr/img/logos-icones/logiciels_librairies/openlayers.png)Bien qu&#39;[OpenLayers](https://openlayers.org/) ne fasse pas partie des librairies les plus lourdes, ce n&#39;est pas une raison pour ne pas faire la chasse au kilos octets ! N&#39;oubliez pas que tout le monde ne dispose pas encore forcément </description>
-      <link>https://static.geotribu.fr/articles/2010/art_2010-09-30/</link>
-      <pubDate>Sun, 22 Nov 2020 10:15:25 -0000</pubDate>
-      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
-      <guid isPermaLink="true">https://static.geotribu.fr/articles/2010/art_2010-09-30/</guid>
-      
-    </item>
-    
-    <item>
-      <title>Conférence Qualité des données géospatiales et géodécisionnel</title>
-      <description># Conférence Qualité des données géospatiales et géodécisionnel
-
-:calendar: Date de publication initiale : 18 octobre 2010
-
-**Mots-clés :** GeoBI | SOLAP | géodécisionnel | Conférence
-
-![these.png](https://cdn.geotribu.fr/img/logos-icones/divers/these.png)Le Vendredi 29 octobre 2010 à 14h le Pr. Yvan Bédard, de l&#39;Université Laval (Département des Sciences Géomatiques - Québec), animera une Conférence ouverte à tous portant sur la &#34;Qualité des données géospatiales et géodécisionnel&#34;. Celle-ci aur</description>
-      <link>https://static.geotribu.fr/articles/2010/art_2010-10-18/</link>
-      <pubDate>Sun, 22 Nov 2020 10:15:25 -0000</pubDate>
-      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
-      <guid isPermaLink="true">https://static.geotribu.fr/articles/2010/art_2010-10-18/</guid>
-      
-    </item>
-    
-    <item>
-      <title>SAGEO 2010, résumé de cette 2éme journée de colloque</title>
-      <description># SAGEO 2010, résumé de cette 2éme journée de colloque
-
-:calendar: Date de publication initiale : 19 novembre 2010
-
-**Mots-clés :** GIS | Colloque
-
-![these.png](https://cdn.geotribu.fr/img/logos-icones/divers/these.png)Deuxième journée de ce colloque [SAGEO 2010](http://sageo10.univ-toulouse.fr/). La matinée était réservée à la question de la fouille de données et l&#39;après-midi était composée de plusieurs ateliers thématiques.
-
-### Fouille de données
-
-![wpe959373a.png](https://cdn.geotribu.fr/img</description>
-      <link>https://static.geotribu.fr/articles/2010/art_2010-11-19/</link>
-      <pubDate>Sun, 22 Nov 2020 10:15:25 -0000</pubDate>
-      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
-      <guid isPermaLink="true">https://static.geotribu.fr/articles/2010/art_2010-11-19/</guid>
       
     </item>
     
