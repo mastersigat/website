@@ -19,8 +19,8 @@
     <language>fr</language>
 
     <!-- Timestamps and frequency -->
-    <pubDate>Tue, 29 Dec 2020 10:37:09 -0000</pubDate>
-    <lastBuildDate>Tue, 29 Dec 2020 10:37:09 -0000</lastBuildDate>
+    <pubDate>Tue, 29 Dec 2020 18:37:25 -0000</pubDate>
+    <lastBuildDate>Tue, 29 Dec 2020 18:37:25 -0000</lastBuildDate>
     <ttl>1440</ttl>
 
     <!-- Credits -->
@@ -36,6 +36,34 @@
     
 
     <!-- Entries -->
+    
+    <item>
+      <title>&amp;#127968; Accueil</title>
+      <description>Page d&#39;accueil de Geotribu, site indépendant de veille sur la géomatique libre. Articles, tutoriels et revues de presse (#GeoRDP) sur l&#39;information géographique.</description>
+      <link>https://static.geotribu.fr/</link>
+      <pubDate>Tue, 29 Dec 2020 16:00:05 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      <guid isPermaLink="true">https://static.geotribu.fr/</guid>
+      
+    </item>
+    
+    <item>
+      <title>Profil type d&#39;un utilisateur d&#39;OpenStreetMap</title>
+      <description># Profil type d&#39;un utilisateur d&#39;OpenStreetMap
+
+:calendar: Date de publication initiale : 15 avril 2010
+
+**Mots-clés :** OpenStreetMap | VGI | Information géographique Volontaire
+
+![OSM_logo.png](https://cdn.geotribu.fr/img/logos-icones/OpenStreetMap/Openstreetmap.png){: .img-rdp-news-thumb }
+
+Il y a quelques semaines en parcourant les différents flux rss auxquels je suis abonné, j&#39;étais tombé sur un billet du site [kelsocartography](http://kelsocartography.com/blog/?p=3476) listant les différen</description>
+      <link>https://static.geotribu.fr/articles/2010/art_2010-04-15/</link>
+      <pubDate>Tue, 29 Dec 2020 15:59:54 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      <guid isPermaLink="true">https://static.geotribu.fr/articles/2010/art_2010-04-15/</guid>
+      
+    </item>
     
     <item>
       <title>Contribution facile et ludique à OSM avec Street Complete</title>
@@ -495,16 +523,6 @@ Géographe de formation, après quelques années tant côté gestion de projet ,
     </item>
     
     <item>
-      <title>&amp;#127968; Accueil</title>
-      <description>Page d&#39;accueil de Geotribu, site indépendant de veille sur la géomatique libre. Articles, tutoriels et revues de presse (#GeoRDP) sur l&#39;information géographique.</description>
-      <link>https://static.geotribu.fr/</link>
-      <pubDate>Sun, 27 Dec 2020 18:22:54 -0000</pubDate>
-      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
-      <guid isPermaLink="true">https://static.geotribu.fr/</guid>
-      
-    </item>
-    
-    <item>
       <title>Interview de David JONGLEZ</title>
       <description># Interview de David Jonglez
 
@@ -683,18 +701,6 @@ Nous avons longtemps hésité avant de relayer les accusations émises à l&#39;
       <pubDate>Thu, 24 Dec 2020 15:44:57 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
       <guid isPermaLink="true">https://static.geotribu.fr/articles/2012/art_2012-01-19/</guid>
-      
-    </item>
-    
-    <item>
-      <title>Revue de presse du 11 décembre 2020</title>
-      <description>GeoRDP du 11 décembre 2020, la revue de presse géomatique de Geotribu : De nombreuses mises à jour au programme ainsi qu&#39;une bonne nouvelle du côté de l&#39;ouverture des données.</description>
-      <link>https://static.geotribu.fr/rdp/2020/rdp_2020-12-11/</link>
-      <pubDate>Fri, 11 Dec 2020 13:14:46 -0000</pubDate>
-      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
-      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2020/rdp_2020-12-11/</guid>
-      
-      <enclosure url="https://cdn.geotribu.fr/img/articles-blog-rdp/capture-ecran/globe_sauter.jpeg" type="image/jpeg" length="318364" />
       
     </item>
     
