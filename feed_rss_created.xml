@@ -19,8 +19,8 @@
     <language>fr</language>
 
     <!-- Timestamps and frequency -->
-    <pubDate>Tue, 29 Dec 2020 18:37:25 -0000</pubDate>
-    <lastBuildDate>Tue, 29 Dec 2020 18:37:25 -0000</lastBuildDate>
+    <pubDate>Wed, 30 Dec 2020 12:27:50 -0000</pubDate>
+    <lastBuildDate>Wed, 30 Dec 2020 12:27:50 -0000</lastBuildDate>
     <ttl>1440</ttl>
 
     <!-- Credits -->
@@ -36,6 +36,18 @@
     
 
     <!-- Entries -->
+    
+    <item>
+      <title>Geotribu à la maison</title>
+      <description>A l&#39;instar de nombreux autres sites web, celui de Geotribu est un site statique. So what ? Pour comprendre, le mieux c&#39;est encore de le déployer à la maison.</description>
+      <link>https://static.geotribu.fr/articles/2020/2020-12-30_deployer_geotribu_a_la_maison/</link>
+      <pubDate>Wed, 30 Dec 2020 11:11:00 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
+      <guid isPermaLink="true">https://static.geotribu.fr/articles/2020/2020-12-30_deployer_geotribu_a_la_maison/</guid>
+      
+      <enclosure url="https://cdn.geotribu.fr/img/articles-blog-rdp/divers/fernand_leger_constructeurs.jpg" type="image/jpeg" length="163951" />
+      
+    </item>
     
     <item>
       <title>Revue de presse du 25 décembre 2020</title>
@@ -710,22 +722,6 @@ Je suis maintenant r</description>
       <pubDate>Wed, 15 Apr 2020 12:48:44 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
       <guid isPermaLink="true">https://static.geotribu.fr/team/fgob/</guid>
-      
-    </item>
-    
-    <item>
-      <title>Julien Moura</title>
-      <description># Julien Moura
-
-![Portrait Julien Moura](https://cdn.geotribu.fr/img/internal/contributeurs/jmou.jfif &#34;Portrait Julien Moura&#34;){: .img-rdp-news-thumb }
-
-Géographe &#34;sigiste&#34; de formation, j&#39;ai d&#39;abord travaillé sur différentes thématiques et types de structures : la gestion des déchets en milieu urbain à Madagascar, le foncier d&#39;intérêt général auprès de [l&#39;EPF de La Réunion](http://www.epf-reunion.com/), l&#39;organisation et la résilience urbaine face aux risques naturels à Lima pour l&#39;IRD.
-
-C&#39;est e</description>
-      <link>https://static.geotribu.fr/team/jmou/</link>
-      <pubDate>Wed, 15 Apr 2020 12:48:44 -0000</pubDate>
-      <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
-      <guid isPermaLink="true">https://static.geotribu.fr/team/jmou/</guid>
       
     </item>
     

@@ -19,8 +19,8 @@
     <language>fr</language>
 
     <!-- Timestamps and frequency -->
-    <pubDate>Tue, 29 Dec 2020 18:37:25 -0000</pubDate>
-    <lastBuildDate>Tue, 29 Dec 2020 18:37:25 -0000</lastBuildDate>
+    <pubDate>Wed, 30 Dec 2020 12:27:50 -0000</pubDate>
+    <lastBuildDate>Wed, 30 Dec 2020 12:27:50 -0000</lastBuildDate>
     <ttl>1440</ttl>
 
     <!-- Credits -->
@@ -36,6 +36,18 @@
     
 
     <!-- Entries -->
+    
+    <item>
+      <title>Geotribu à la maison</title>
+      <description>A l&#39;instar de nombreux autres sites web, celui de Geotribu est un site statique. So what ? Pour comprendre, le mieux c&#39;est encore de le déployer à la maison.</description>
+      <link>https://static.geotribu.fr/articles/2020/2020-12-30_deployer_geotribu_a_la_maison/</link>
+      <pubDate>Wed, 30 Dec 2020 12:26:34 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      <guid isPermaLink="true">https://static.geotribu.fr/articles/2020/2020-12-30_deployer_geotribu_a_la_maison/</guid>
+      
+      <enclosure url="https://cdn.geotribu.fr/img/articles-blog-rdp/divers/fernand_leger_constructeurs.jpg" type="image/jpeg" length="163951" />
+      
+    </item>
     
     <item>
       <title>&amp;#127968; Accueil</title>
@@ -683,24 +695,6 @@ Voici comment corriger en quelques étapes simples et **sans rien installer**.
       <guid isPermaLink="true">https://static.geotribu.fr/rdp/2020/rdp_2020-12-25/</guid>
       
       <enclosure url="https://cdn.geotribu.fr/img/articles-blog-rdp/merry_christmas_blender.png" type="image/png" length="530787" />
-      
-    </item>
-    
-    <item>
-      <title>Google, Evil or not ?</title>
-      <description># Google, Evil or not ?
-
-:calendar: Date de publication initiale : 19 janvier 2012
-
-**Mots-clés :** Google | OpenStreetMap
-
-![google_maps_logo.png](https://cdn.geotribu.fr/img/logos-icones/entreprises_association/google/google_maps.png){: .img-rdp-news-thumb }
-
-Nous avons longtemps hésité avant de relayer les accusations émises à l&#39;encontre de Google tant celles-ci nous semblent démesurées et hors de propos. Mais, des sites à grande audience ([clubic](https://www.clubic.com/application-web/actua</description>
-      <link>https://static.geotribu.fr/articles/2012/art_2012-01-19/</link>
-      <pubDate>Thu, 24 Dec 2020 15:44:57 -0000</pubDate>
-      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
-      <guid isPermaLink="true">https://static.geotribu.fr/articles/2012/art_2012-01-19/</guid>
       
     </item>
     
