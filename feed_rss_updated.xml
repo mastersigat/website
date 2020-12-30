@@ -19,8 +19,8 @@
     <language>fr</language>
 
     <!-- Timestamps and frequency -->
-    <pubDate>Wed, 30 Dec 2020 12:27:50 -0000</pubDate>
-    <lastBuildDate>Wed, 30 Dec 2020 12:27:50 -0000</lastBuildDate>
+    <pubDate>Wed, 30 Dec 2020 14:30:57 -0000</pubDate>
+    <lastBuildDate>Wed, 30 Dec 2020 14:30:57 -0000</lastBuildDate>
     <ttl>1440</ttl>
 
     <!-- Credits -->
@@ -41,7 +41,7 @@
       <title>Geotribu à la maison</title>
       <description>A l&#39;instar de nombreux autres sites web, celui de Geotribu est un site statique. So what ? Pour comprendre, le mieux c&#39;est encore de le déployer à la maison.</description>
       <link>https://static.geotribu.fr/articles/2020/2020-12-30_deployer_geotribu_a_la_maison/</link>
-      <pubDate>Wed, 30 Dec 2020 12:26:34 -0000</pubDate>
+      <pubDate>Wed, 30 Dec 2020 13:41:00 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
       <guid isPermaLink="true">https://static.geotribu.fr/articles/2020/2020-12-30_deployer_geotribu_a_la_maison/</guid>
       
