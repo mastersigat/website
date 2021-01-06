@@ -19,8 +19,8 @@
     <language>fr</language>
 
     <!-- Timestamps and frequency -->
-    <pubDate>Tue, 05 Jan 2021 21:19:25 -0000</pubDate>
-    <lastBuildDate>Tue, 05 Jan 2021 21:19:25 -0000</lastBuildDate>
+    <pubDate>Wed, 06 Jan 2021 08:17:00 -0000</pubDate>
+    <lastBuildDate>Wed, 06 Jan 2021 08:17:00 -0000</lastBuildDate>
     <ttl>1440</ttl>
 
     <!-- Credits -->
@@ -36,6 +36,20 @@
     
 
     <!-- Entries -->
+    
+    <item>
+      <title>Florian Boret</title>
+      <description># Florian Boret
+
+![Portrait Florian Boret](https://cdn.geotribu.fr/img/internal/contributeurs/fbor.png &#34;Portrait Florian Boret&#34;){: .img-rdp-news-thumb }
+
+Géomaticien/cartographe, je suis arrivé dans le monde de la géomatique en suivant un cursus « professionnalisant » (BTS Géomètre-Topographe, Licence pro GGAT, Master SIGAT). J’ai ensuite travaillé dans un bureau d’études spécialisé dans la production de données d’occupation du sol et puis pour des raisons personnelles je me suis expatrié quelqu</description>
+      <link>https://static.geotribu.fr/team/fbor/</link>
+      <pubDate>Mon, 04 Jan 2021 21:40:16 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
+      <guid isPermaLink="true">https://static.geotribu.fr/team/fbor/</guid>
+      
+    </item>
     
     <item>
       <title>Geotribu à la maison</title>
@@ -58,6 +72,22 @@
       <guid isPermaLink="true">https://static.geotribu.fr/rdp/2020/rdp_2020-12-25/</guid>
       
       <enclosure url="https://cdn.geotribu.fr/img/articles-blog-rdp/merry_christmas_blender.png" type="image/png" length="530787" />
+      
+    </item>
+    
+    <item>
+      <title>Aurélien Chaumet</title>
+      <description># Aurélien Chaumet
+
+![Portrait Aurélien Chaumet](https://cdn.geotribu.fr/img/internal/contributeurs/achaumet.webp &#34;Portrait Aurélien Chaumet&#34;){: .img-rdp-news-thumb }
+
+Ingénieur en Aménagement du territoire, je suis arrivé à la géomatique par un hasard de parcours professionnel en 2016, suite à mon admission au concours d&#39;ingénieur territorial.
+
+De formation autodidacte, je travaille au Pays Marennes Oléron en tant que chargé de mission Système d&#39;Information Territoriale, sur toutes les thématiq</description>
+      <link>https://static.geotribu.fr/team/acha/</link>
+      <pubDate>Sat, 19 Dec 2020 10:19:28 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
+      <guid isPermaLink="true">https://static.geotribu.fr/team/acha/</guid>
       
     </item>
     
@@ -691,37 +721,6 @@ Bien qu&#39;issus à l&#39;origine d&#39;un parcours universitaire (doctorat et 
       <pubDate>Wed, 15 Apr 2020 12:48:44 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
       <guid isPermaLink="true">https://static.geotribu.fr/team/avdc/</guid>
-      
-    </item>
-    
-    <item>
-      <title>Etienne Delay</title>
-      <description># Etienne Delay
-
-![portrait](https://cdn.geotribu.fr/img/internal/contributeurs/edel.jpg &#34;portrait&#34;){: .img-rdp-news-thumb }
-
-Je suis géographe avec une entrée en géographie sociale par la modélisation et la simulation informatique à base d&#39;agents. Je mène des recherches sur les manifestations géographiques (spatiale) de l&#39;entraide et de la coopération. J&#39;ai développé une méthodologie de recherche basée sur le travail de terrain et la modélisation d&#39;accompagnement.
-
-J&#39;ai appliqué ces méthodes à </description>
-      <link>https://static.geotribu.fr/team/edel/</link>
-      <pubDate>Wed, 15 Apr 2020 12:48:44 -0000</pubDate>
-      <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
-      <guid isPermaLink="true">https://static.geotribu.fr/team/edel/</guid>
-      
-    </item>
-    
-    <item>
-      <title>Fabien Goblet</title>
-      <description># Fabien Goblet
-
-![portrait](https://cdn.geotribu.fr/img/internal/contributeurs/fgob.jfif &#34;portrait&#34;){: .img-rdp-news-thumb }
-
-Informaticien et géographe de formation, ~~je suis~~ j&#39;étais indépendant en base de données, webmapping, j&#39;aide à la modélisation et à la définition du besoin client, ~~je développe~~ j&#39;encadre le développement des interfaces d&#39;administration et des carto-web, je conçois des api géographiques pour les administrations, les ONG, les labos de recherche.
-Je suis maintenant r</description>
-      <link>https://static.geotribu.fr/team/fgob/</link>
-      <pubDate>Wed, 15 Apr 2020 12:48:44 -0000</pubDate>
-      <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
-      <guid isPermaLink="true">https://static.geotribu.fr/team/fgob/</guid>
       
     </item>
     
