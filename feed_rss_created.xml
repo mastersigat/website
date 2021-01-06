@@ -19,8 +19,8 @@
     <language>fr</language>
 
     <!-- Timestamps and frequency -->
-    <pubDate>Wed, 06 Jan 2021 08:17:00 -0000</pubDate>
-    <lastBuildDate>Wed, 06 Jan 2021 08:17:00 -0000</lastBuildDate>
+    <pubDate>Wed, 06 Jan 2021 08:57:50 -0000</pubDate>
+    <lastBuildDate>Wed, 06 Jan 2021 08:57:50 -0000</lastBuildDate>
     <ttl>1440</ttl>
 
     <!-- Credits -->
@@ -36,6 +36,30 @@
     
 
     <!-- Entries -->
+    
+    <item>
+      <title>2020 dans le géorétro, 2021 en ligne de mire</title>
+      <description>L&#39;équipe de Geotribu vous souhaite ses meilleurs voeux pour 2021, avec quelques statistiques sur l&#39;année 2020 et une feuille de route 2021.</description>
+      <link>https://static.geotribu.fr/articles/2021/2021-01-04_bilan_2020_perspectives_2021/</link>
+      <pubDate>Wed, 06 Jan 2021 11:11:00 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
+      <guid isPermaLink="true">https://static.geotribu.fr/articles/2021/2021-01-04_bilan_2020_perspectives_2021/</guid>
+      
+      <enclosure url="https://cdn.geotribu.fr/img/articles-blog-rdp/divers/phoenix_constellation_map_fr.png" type="image/png" length="15501" />
+      
+    </item>
+    
+    <item>
+      <title>Rédiger en Markdown : comprendre l&#39;en-tête</title>
+      <description>Rédiger en Markdown : de l&#39;importance de l&#39;en-tête (YAML front-matter) pour définir les métadonnées, la navigation et le référencement.</description>
+      <link>https://static.geotribu.fr/contribuer/guides/metadata_yaml_frontmatter/</link>
+      <pubDate>Tue, 05 Jan 2021 20:20:00 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
+      <guid isPermaLink="true">https://static.geotribu.fr/contribuer/guides/metadata_yaml_frontmatter/</guid>
+      
+      <enclosure url="https://cdn.geotribu.fr/img/internal/contribution/markdown/markdown_yaml_frontmatter.png" type="image/png" length="267228" />
+      
+    </item>
     
     <item>
       <title>Florian Boret</title>
@@ -693,34 +717,6 @@ J&#39;ai rejoint l&#39;équipe de GéoTribu pour apporter une touche helvétique
       <pubDate>Wed, 15 Apr 2020 14:53:44 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
       <guid isPermaLink="true">https://static.geotribu.fr/team/rbov/</guid>
-      
-    </item>
-    
-    <item>
-      <title>Rodolphe Quiédeville</title>
-      <description># Rodolphe Quiédeville
-
-![portrait](https://cdn.geotribu.fr/img/internal/contributeurs/rqui.jfif &#34;portrait&#34;){: .img-rdp-news-thumb }
-
-Autodidacte de formation je suis venu à la géomatique par les logiciels libres, j&#39;ai fait mes premières armes avec MapServer et GRASS il y a maintenant de nombreuses années. Après une trop longue pause en dehors des cartes, j&#39;y suis revenu par le projet OpenStreetMap auquel je contribue dès que je peux. Un peu touche à tout je m&#39;intéresse aux outils libres qui éme</description>
-      <link>https://static.geotribu.fr/team/rqui/</link>
-      <pubDate>Wed, 15 Apr 2020 14:53:44 -0000</pubDate>
-      <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
-      <guid isPermaLink="true">https://static.geotribu.fr/team/rqui/</guid>
-      
-    </item>
-    
-    <item>
-      <title>Arnaud Vandecasteele</title>
-      <description># Arnaud Vandecasteele
-
-![portrait](https://cdn.geotribu.fr/img/internal/contributeurs/avdc.jpg &#34;portrait&#34;){: .img-rdp-news-thumb }
-
-Bien qu&#39;issus à l&#39;origine d&#39;un parcours universitaire (doctorat et post-doc), j&#39;ai finalement tenté l&#39;aventure entrepreunariale au travers de [Geolab](http://geolab.re/). Mes principaux centres d&#39;intêrets dans le domaine de la géomatique portent sur les logiciels Open Source et plus particulièrement QGIS. J&#39;aime également le développement informatique avec une fort</description>
-      <link>https://static.geotribu.fr/team/avdc/</link>
-      <pubDate>Wed, 15 Apr 2020 12:48:44 -0000</pubDate>
-      <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
-      <guid isPermaLink="true">https://static.geotribu.fr/team/avdc/</guid>
       
     </item>
     
