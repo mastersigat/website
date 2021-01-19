@@ -14,8 +14,8 @@
     <language>fr</language>
 
     
-    <pubDate>Tue, 19 Jan 2021 13:38:14 -0000</pubDate>
-    <lastBuildDate>Tue, 19 Jan 2021 13:38:14 -0000</lastBuildDate>
+    <pubDate>Tue, 19 Jan 2021 14:15:20 -0000</pubDate>
+    <lastBuildDate>Tue, 19 Jan 2021 14:15:20 -0000</lastBuildDate>
     <ttl>1440</ttl>
 
     
@@ -31,6 +31,18 @@
     
 
     
+    
+    <item>
+      <title>Plugin QGIS : utiliser les icônes intégrées</title>
+      <description>Pour le développement d&#39;un plugin pour QGIS, soigner l&#39;interface graphique peut être fastidieux, notamment de concevoir ou trouver les éléments graphiques. Pourquoi ne pas utiliser les icônes déjà embarquées dans QGIS ?.</description>
+      <link>https://static.geotribu.fr/articles/2021/2021-01-19_pyqgis_utiliser_icones_integrees/</link>
+      <pubDate>Tue, 19 Jan 2021 14:20:00 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
+      <guid isPermaLink="true">https://static.geotribu.fr/articles/2021/2021-01-19_pyqgis_utiliser_icones_integrees/</guid>
+      
+      <enclosure url="https://cdn.geotribu.fr/img/tuto/qgis_plugin_embedded_images/qgis_icons_file-explorer.png" type="image/png" length="323809" />
+      
+    </item>
     
     <item>
       <title>Revue de presse du 15 janvier 2021</title>
@@ -502,18 +514,6 @@ Le but de ce tutorial est de découvrir via u</description>
       <pubDate>Fri, 05 Jun 2020 10:30:16 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
       <guid isPermaLink="true">https://static.geotribu.fr/articles/2013/art_2013-06-05_mongo_spatial/</guid>
-      
-    </item>
-    
-    <item>
-      <title>Revue de presse du 29 mai 2020</title>
-      <description>#GeoRDP du 29 mai 2020 : après une quatorzaine de rétention réglementaire, les news géomatique sont lâchées.</description>
-      <link>https://static.geotribu.fr/rdp/2020/rdp_2020-05-29/</link>
-      <pubDate>Fri, 29 May 2020 10:20:00 -0000</pubDate>
-      <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
-      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2020/rdp_2020-05-29/</guid>
-      
-      <enclosure url="https://cdn.geotribu.fr/img/articles-blog-rdp/capture-ecran/lune_carte_geologique_usgs_2020.jpg" type="image/jpeg" length="437054" />
       
     </item>
     
