@@ -14,8 +14,8 @@
     <language>fr</language>
 
     
-    <pubDate>Wed, 20 Jan 2021 21:32:52 -0000</pubDate>
-    <lastBuildDate>Wed, 20 Jan 2021 21:32:52 -0000</lastBuildDate>
+    <pubDate>Fri, 22 Jan 2021 10:53:48 -0000</pubDate>
+    <lastBuildDate>Fri, 22 Jan 2021 10:53:48 -0000</lastBuildDate>
     <ttl>1440</ttl>
 
     
@@ -31,6 +31,18 @@
     
 
     
+    
+    <item>
+      <title>CSV - Import/export d&#39;un style catégorisé QGIS</title>
+      <description>CSV - Import/export d&#39;un style catégorisé QGIS</description>
+      <link>https://static.geotribu.fr/articles/2021/2021-01-22_csv_import_export_style_QGIS/</link>
+      <pubDate>Fri, 22 Jan 2021 11:11:00 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
+      <guid isPermaLink="true">https://static.geotribu.fr/articles/2021/2021-01-22_csv_import_export_style_QGIS/</guid>
+      
+      <enclosure url="https://cdn.geotribu.fr/img/articles-blog-rdp/articles/QGIS_style_CSV.gif" type="image/gif" length="143634" />
+      
+    </item>
     
     <item>
       <title>Plugin QGIS : utiliser les icônes intégrées</title>
@@ -493,27 +505,6 @@ De formation autodidacte, je travaille au Pays Marennes Oléron en tant que char
       <guid isPermaLink="true">https://static.geotribu.fr/rdp/2020/rdp_2020-06-12/</guid>
       
       <enclosure url="https://cdn.geotribu.fr/img/articles-blog-rdp/capture-ecran/geoseer_analisis_geospatial_servers_propr_vs_foss.png" type="image/png" length="13025" />
-      
-    </item>
-    
-    <item>
-      <title>Mongo Spatial</title>
-      <description># Mongo Spatial
-
-!!! warning
-    Ce contenu est une archive. Son contenu n&#39;est sûrement plus très frais...
-
-Tuto GeoTribu d&#39;introduction à MongoDB pour l&#39;information spatiale. Nécessite de légère base de [Javascript](http://fr.openclassrooms.com/informatique/cours/dynamisez-vos-sites-web-avec-javascript), rien de sorcier.
-
-Je recommande vivement l&#39;utilisation de l&#39;excellent editeur de code open source [Brackets](http://brackets.io/).
-
-## Introduction
-
-Le but de ce tutorial est de découvrir via u</description>
-      <link>https://static.geotribu.fr/articles/2013/art_2013-06-05_mongo_spatial/</link>
-      <pubDate>Fri, 05 Jun 2020 10:30:16 -0000</pubDate>
-      <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
-      <guid isPermaLink="true">https://static.geotribu.fr/articles/2013/art_2013-06-05_mongo_spatial/</guid>
       
     </item>
     
