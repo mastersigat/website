@@ -14,8 +14,8 @@
     <language>fr</language>
 
     
-    <pubDate>Fri, 22 Jan 2021 10:53:48 -0000</pubDate>
-    <lastBuildDate>Fri, 22 Jan 2021 10:53:48 -0000</lastBuildDate>
+    <pubDate>Tue, 26 Jan 2021 08:17:02 -0000</pubDate>
+    <lastBuildDate>Tue, 26 Jan 2021 08:17:02 -0000</lastBuildDate>
     <ttl>1440</ttl>
 
     
@@ -31,6 +31,18 @@
     
 
     
+    
+    <item>
+      <title>Unfolded Studio, une nouvelle plateforme de visualisation de géodonnées</title>
+      <description>Prise en main d&#39;Unfolded Studio via lar eprésentation de données Airbnb de Bordeaux</description>
+      <link>https://static.geotribu.fr/articles/2021/2021-01-26_test_unfolded_studio/</link>
+      <pubDate>Tue, 26 Jan 2021 11:11:00 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
+      <guid isPermaLink="true">https://static.geotribu.fr/articles/2021/2021-01-26_test_unfolded_studio/</guid>
+      
+      <enclosure url="https://cdn.geotribu.fr/img/articles-blog-rdp/articles/unfolded/unfolded_capture.png" type="image/png" length="371733" />
+      
+    </item>
     
     <item>
       <title>CSV - Import/export d&#39;un style catégorisé QGIS</title>
@@ -493,18 +505,6 @@ De formation autodidacte, je travaille au Pays Marennes Oléron en tant que char
       <guid isPermaLink="true">https://static.geotribu.fr/articles/2020/2020-06-19_setup_python/</guid>
       
       <enclosure url="https://cdn.geotribu.fr/img/tuto/python_windows/python_windows_installer_path_length.jpg" type="image/jpeg" length="69519" />
-      
-    </item>
-    
-    <item>
-      <title>Revue de presse du 12 juin 2020</title>
-      <description>GeoRDP du 12 juin 2020 : mots-croisés géographiques et quel est le serveur géospatial le plus répandu ?</description>
-      <link>https://static.geotribu.fr/rdp/2020/rdp_2020-06-12/</link>
-      <pubDate>Fri, 12 Jun 2020 10:20:00 -0000</pubDate>
-      <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
-      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2020/rdp_2020-06-12/</guid>
-      
-      <enclosure url="https://cdn.geotribu.fr/img/articles-blog-rdp/capture-ecran/geoseer_analisis_geospatial_servers_propr_vs_foss.png" type="image/png" length="13025" />
       
     </item>
     

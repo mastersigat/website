@@ -14,8 +14,8 @@
     <language>fr</language>
 
     
-    <pubDate>Fri, 22 Jan 2021 10:53:48 -0000</pubDate>
-    <lastBuildDate>Fri, 22 Jan 2021 10:53:48 -0000</lastBuildDate>
+    <pubDate>Tue, 26 Jan 2021 08:17:02 -0000</pubDate>
+    <lastBuildDate>Tue, 26 Jan 2021 08:17:02 -0000</lastBuildDate>
     <ttl>1440</ttl>
 
     
@@ -31,6 +31,18 @@
     
 
     
+    
+    <item>
+      <title>Unfolded Studio, une nouvelle plateforme de visualisation de géodonnées</title>
+      <description>Prise en main d&#39;Unfolded Studio via lar eprésentation de données Airbnb de Bordeaux</description>
+      <link>https://static.geotribu.fr/articles/2021/2021-01-26_test_unfolded_studio/</link>
+      <pubDate>Mon, 25 Jan 2021 16:29:59 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      <guid isPermaLink="true">https://static.geotribu.fr/articles/2021/2021-01-26_test_unfolded_studio/</guid>
+      
+      <enclosure url="https://cdn.geotribu.fr/img/articles-blog-rdp/articles/unfolded/unfolded_capture.png" type="image/png" length="371733" />
+      
+    </item>
     
     <item>
       <title>L&#39;API du GéoPortail passe en version 1.0</title>
@@ -680,20 +692,6 @@ Enfin, nous saluons l&#39;initiative OpenFoodFacts qui to</description>
       <pubDate>Wed, 20 Jan 2021 21:31:17 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
       <guid isPermaLink="true">https://static.geotribu.fr/rdp/2013/rdp_2013-03-01/</guid>
-      
-    </item>
-    
-    <item>
-      <title>Revue de presse du 8 mars 2013</title>
-      <description># Revue de presse du 8 mars 2013
-
-L’arrivée du printemps n&#39;est pas pour autant synonyme de news. C&#39;est une revue de presse un peu timide que nous vous offrons cette semaine. Mais rassurez vous, vous aurez tout de même de quoi occuper votre vendredi. Commençons par nous intéresser aux nouveautés côté client avec la sortie de SRTM Tile Grabber puis faisons un détour chez nos amis les chats avec Cat Map et enfin profitons en pour visualiser cette superbe carte du métro.
-
-Place maintenant à OpenStre</description>
-      <link>https://static.geotribu.fr/rdp/2013/rdp_2013-03-08/</link>
-      <pubDate>Wed, 20 Jan 2021 21:31:17 -0000</pubDate>
-      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
-      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2013/rdp_2013-03-08/</guid>
       
     </item>
     
