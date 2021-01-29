@@ -14,8 +14,8 @@
     <language>fr</language>
 
     
-    <pubDate>Tue, 26 Jan 2021 08:17:02 -0000</pubDate>
-    <lastBuildDate>Tue, 26 Jan 2021 08:17:02 -0000</lastBuildDate>
+    <pubDate>Fri, 29 Jan 2021 13:43:31 -0000</pubDate>
+    <lastBuildDate>Fri, 29 Jan 2021 13:43:31 -0000</lastBuildDate>
     <ttl>1440</ttl>
 
     
@@ -33,8 +33,20 @@
     
     
     <item>
+      <title>Revue de presse du 29 janvier 2021</title>
+      <description>GeoRDP du 29 janvier 2021 : voyage dans le temps avec PhilCarto 2021 puis retour dans le présent avec PyGEOS, Mapillary, AI4Geo, WillyMaps, du mesh et d&#39;autres choses encore !</description>
+      <link>https://static.geotribu.fr/rdp/2021/rdp_2021-01-29/</link>
+      <pubDate>Fri, 29 Jan 2021 14:20:00 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
+      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2021/rdp_2021-01-29/</guid>
+      
+      <enclosure url="https://cdn.geotribu.fr/img/articles-blog-rdp/capture-ecran/shadowarm.jpeg" type="image/jpeg" length="158332" />
+      
+    </item>
+    
+    <item>
       <title>Unfolded Studio, une nouvelle plateforme de visualisation de géodonnées</title>
-      <description>Prise en main d&#39;Unfolded Studio via lar eprésentation de données Airbnb de Bordeaux</description>
+      <description>Prise en main d&#39;Unfolded Studio, une plateforme clé en mains de dataviz, via la représentation de données AirBNB de Bordeaux.</description>
       <link>https://static.geotribu.fr/articles/2021/2021-01-26_test_unfolded_studio/</link>
       <pubDate>Tue, 26 Jan 2021 11:11:00 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
@@ -493,18 +505,6 @@ De formation autodidacte, je travaille au Pays Marennes Oléron en tant que char
       <pubDate>Sat, 20 Jun 2020 10:20:00 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
       <guid isPermaLink="true">https://static.geotribu.fr/rdp/2020/rdp_2020-06-26/</guid>
-      
-    </item>
-    
-    <item>
-      <title>Python - Configuration sur Windows et outillage</title>
-      <description>Configuration et outillage de base pour développer en Python en 2020, avec un focus sur le travail sous Windows.</description>
-      <link>https://static.geotribu.fr/articles/2020/2020-06-19_setup_python/</link>
-      <pubDate>Fri, 19 Jun 2020 10:20:00 -0000</pubDate>
-      <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
-      <guid isPermaLink="true">https://static.geotribu.fr/articles/2020/2020-06-19_setup_python/</guid>
-      
-      <enclosure url="https://cdn.geotribu.fr/img/tuto/python_windows/python_windows_installer_path_length.jpg" type="image/jpeg" length="69519" />
       
     </item>
     
