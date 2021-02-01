@@ -14,8 +14,8 @@
     <language>fr</language>
 
     
-    <pubDate>Mon, 01 Feb 2021 15:57:49 -0000</pubDate>
-    <lastBuildDate>Mon, 01 Feb 2021 15:57:49 -0000</lastBuildDate>
+    <pubDate>Mon, 01 Feb 2021 18:02:30 -0000</pubDate>
+    <lastBuildDate>Mon, 01 Feb 2021 18:02:30 -0000</lastBuildDate>
     <ttl>1440</ttl>
 
     
@@ -33,24 +33,6 @@
     
     
     <item>
-      <title>PyQGIS : lister et prévisualiser les images intégrées</title>
-      
-      
-        
-      <author>Julien MOURA</author>
-        
-      
-      <description>Suite au dernier article, voici les images intégrées à QGIS et le script qui va avec pour générer une jolie page markdown.</description>
-      <link>https://static.geotribu.fr/articles/2021/2021-02-02_pyqgis_previsualiser_images_integrees/</link>
-      <pubDate>Mon, 01 Feb 2021 15:52:42 -0000</pubDate>
-      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
-      <guid isPermaLink="true">https://static.geotribu.fr/articles/2021/2021-02-02_pyqgis_previsualiser_images_integrees/</guid>
-      
-      <enclosure url="https://cdn.geotribu.fr/img/tuto/qgis_plugin_embedded_images/qgis_icons_preview_cheatsheet.png" type="image/png" length="171657" />
-      
-    </item>
-    
-    <item>
       <title>QGIS embedded images - Cheatsheet</title>
       
       
@@ -60,9 +42,27 @@
       
       <description>Cheatsheet about embedded QGIS images: list, preview and snippet to easily insert in your PyQGIS development.</description>
       <link>https://static.geotribu.fr/toc_nav_ignored/qgis_resources_preview_table/</link>
-      <pubDate>Mon, 01 Feb 2021 15:31:36 -0000</pubDate>
+      <pubDate>Mon, 01 Feb 2021 18:01:00 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
       <guid isPermaLink="true">https://static.geotribu.fr/toc_nav_ignored/qgis_resources_preview_table/</guid>
+      
+      <enclosure url="https://cdn.geotribu.fr/img/tuto/qgis_plugin_embedded_images/qgis_icons_preview_cheatsheet.png" type="image/png" length="171657" />
+      
+    </item>
+    
+    <item>
+      <title>PyQGIS : lister et prévisualiser les images intégrées</title>
+      
+      
+        
+      <author>Julien MOURA</author>
+        
+      
+      <description>Suite au dernier article, voici comment lister et prévisualiser les images intégrées à QGIS via script Python pour générer une jolie page markdown.</description>
+      <link>https://static.geotribu.fr/articles/2021/2021-02-02_pyqgis_previsualiser_images_integrees/</link>
+      <pubDate>Mon, 01 Feb 2021 17:57:33 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      <guid isPermaLink="true">https://static.geotribu.fr/articles/2021/2021-02-02_pyqgis_previsualiser_images_integrees/</guid>
       
       <enclosure url="https://cdn.geotribu.fr/img/tuto/qgis_plugin_embedded_images/qgis_icons_preview_cheatsheet.png" type="image/png" length="171657" />
       
