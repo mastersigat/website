@@ -14,8 +14,8 @@
     <language>fr</language>
 
     
-    <pubDate>Mon, 01 Feb 2021 15:13:10 -0000</pubDate>
-    <lastBuildDate>Mon, 01 Feb 2021 15:13:10 -0000</lastBuildDate>
+    <pubDate>Mon, 01 Feb 2021 15:57:49 -0000</pubDate>
+    <lastBuildDate>Mon, 01 Feb 2021 15:57:49 -0000</lastBuildDate>
     <ttl>1440</ttl>
 
     
@@ -42,7 +42,7 @@
       
       <description>Suite au dernier article, voici les images intégrées à QGIS et le script qui va avec pour générer une jolie page markdown.</description>
       <link>https://static.geotribu.fr/articles/2021/2021-02-02_pyqgis_previsualiser_images_integrees/</link>
-      <pubDate>Mon, 01 Feb 2021 15:08:14 -0000</pubDate>
+      <pubDate>Mon, 01 Feb 2021 15:52:42 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
       <guid isPermaLink="true">https://static.geotribu.fr/articles/2021/2021-02-02_pyqgis_previsualiser_images_integrees/</guid>
       
@@ -60,7 +60,7 @@
       
       <description>Cheatsheet about embedded QGIS images: list, preview and snippet to easily insert in your PyQGIS development.</description>
       <link>https://static.geotribu.fr/toc_nav_ignored/qgis_resources_preview_table/</link>
-      <pubDate>Mon, 01 Feb 2021 15:08:14 -0000</pubDate>
+      <pubDate>Mon, 01 Feb 2021 15:31:36 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
       <guid isPermaLink="true">https://static.geotribu.fr/toc_nav_ignored/qgis_resources_preview_table/</guid>
       
