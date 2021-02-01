@@ -14,8 +14,8 @@
     <language>fr</language>
 
     
-    <pubDate>Mon, 01 Feb 2021 09:43:12 -0000</pubDate>
-    <lastBuildDate>Mon, 01 Feb 2021 09:43:12 -0000</lastBuildDate>
+    <pubDate>Mon, 01 Feb 2021 14:48:23 -0000</pubDate>
+    <lastBuildDate>Mon, 01 Feb 2021 14:48:23 -0000</lastBuildDate>
     <ttl>1440</ttl>
 
     
@@ -31,6 +31,42 @@
     
 
     
+    
+    <item>
+      <title>Plugin QGIS : utiliser les icônes intégrées</title>
+      
+      
+        
+      <author>Julien MOURA</author>
+        
+      
+      <description>Pour le développement d&#39;un plugin pour QGIS, soigner l&#39;interface graphique peut être fastidieux, notamment de concevoir ou trouver les éléments graphiques. Pourquoi ne pas utiliser les icônes déjà embarquées dans QGIS ?.</description>
+      <link>https://static.geotribu.fr/articles/2021/2021-01-19_pyqgis_utiliser_icones_integrees/</link>
+      <pubDate>Mon, 01 Feb 2021 10:27:40 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      <guid isPermaLink="true">https://static.geotribu.fr/articles/2021/2021-01-19_pyqgis_utiliser_icones_integrees/</guid>
+      
+      <enclosure url="https://cdn.geotribu.fr/img/tuto/qgis_plugin_embedded_images/qgis_icons_file-explorer.png" type="image/png" length="323809" />
+      
+    </item>
+    
+    <item>
+      <title>PyQGIS : lister et prévisualiser les images intégrées</title>
+      
+      
+        
+      <author>Julien MOURA</author>
+        
+      
+      <description>Suite au dernier article, voici les images intégrées à QGIS et le script qui va avec pour générer une jolie page markdown.</description>
+      <link>https://static.geotribu.fr/articles/2021/2021-02-02_pyqgis_previsualiser_images_integrees/</link>
+      <pubDate>Mon, 01 Feb 2021 10:27:40 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      <guid isPermaLink="true">https://static.geotribu.fr/articles/2021/2021-02-02_pyqgis_previsualiser_images_integrees/</guid>
+      
+      <enclosure url="https://cdn.geotribu.fr/img/tuto/qgis_plugin_embedded_images/qgis_icons_file-explorer.png" type="image/png" length="323809" />
+      
+    </item>
     
     <item>
       <title>Revue de presse du 29 janvier 2021</title>
@@ -770,38 +806,6 @@ Vous avez la petite forme cette semaine ? le moral en berne ? Rassurez-vous, c&#
       <pubDate>Sat, 23 Jan 2021 09:38:58 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
       <guid isPermaLink="true">https://static.geotribu.fr/rdp/2015/rdp_2015-01-30/</guid>
-      
-    </item>
-    
-    <item>
-      <title>Revue de presse du 27 mars</title>
-      
-      
-        
-      <author>Geotribu</author>
-        
-      
-      <description>Revue de presse du 27 mars</description>
-      <link>https://static.geotribu.fr/rdp/2015/rdp_2015-03-27/</link>
-      <pubDate>Sat, 23 Jan 2021 09:38:58 -0000</pubDate>
-      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
-      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2015/rdp_2015-03-27/</guid>
-      
-    </item>
-    
-    <item>
-      <title>Revue de presse du 7 avril</title>
-      
-      
-        
-      <author>Geotribu</author>
-        
-      
-      <description>Revue de presse du 7 avril</description>
-      <link>https://static.geotribu.fr/rdp/2015/rdp_2015-04-07/</link>
-      <pubDate>Sat, 23 Jan 2021 09:38:58 -0000</pubDate>
-      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
-      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2015/rdp_2015-04-07/</guid>
       
     </item>
     
