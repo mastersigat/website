@@ -14,12 +14,12 @@
     <language>fr</language>
 
     
-    <pubDate>Fri, 29 Jan 2021 19:45:44 -0000</pubDate>
-    <lastBuildDate>Fri, 29 Jan 2021 19:45:44 -0000</lastBuildDate>
+    <pubDate>Mon, 01 Feb 2021 08:42:50 -0000</pubDate>
+    <lastBuildDate>Mon, 01 Feb 2021 08:42:50 -0000</lastBuildDate>
     <ttl>1440</ttl>
 
     
-    <generator>MkDocs RSS plugin - v0.11.0</generator>
+    <generator>MkDocs RSS plugin - v0.12.0</generator>
 
     
     
@@ -34,6 +34,12 @@
     
     <item>
       <title>Revue de presse du 29 janvier 2021</title>
+      
+      
+        
+      <author>Geotribu</author>
+        
+      
       <description>GeoRDP du 29 janvier 2021 : voyage dans le temps avec PhilCarto 2021 puis retour dans le présent avec PyGEOS, Mapillary, AI4Geo, WillyMaps, du mesh et d&#39;autres choses encore !</description>
       <link>https://static.geotribu.fr/rdp/2021/rdp_2021-01-29/</link>
       <pubDate>Fri, 29 Jan 2021 19:40:15 -0000</pubDate>
@@ -46,6 +52,12 @@
     
     <item>
       <title>Unfolded Studio, une nouvelle plateforme de visualisation de géodonnées</title>
+      
+      
+        
+      <author>Aurélien Chaumet</author>
+        
+      
       <description>Prise en main d&#39;Unfolded Studio, une plateforme clé en mains de dataviz, via la représentation de données AirBNB de Bordeaux.</description>
       <link>https://static.geotribu.fr/articles/2021/2021-01-26_test_unfolded_studio/</link>
       <pubDate>Wed, 27 Jan 2021 17:30:04 -0000</pubDate>
@@ -58,6 +70,12 @@
     
     <item>
       <title>Revue de presse du 21 mai 2011</title>
+      
+      
+        
+      <author>GeoTribu</author>
+        
+      
       <description># Revue de presse du 21 mai 2011
 
 :calendar: Date de publication initiale : 21 mai 2011
@@ -76,6 +94,12 @@ Cette semaine au menu, des librairies javascript pour la [visualisation](#visu) 
     
     <item>
       <title>Revue de presse du 2 juin</title>
+      
+      
+        
+      <author>GeoTribu</author>
+        
+      
       <description># Revue de presse du 2 juin 2012
 
 :calendar: Date de publication initiale : 02 juin 2012
@@ -93,6 +117,12 @@ Cette semaine au menu, des librairies javascript pour la [visualisation](#visu) 
     
     <item>
       <title>Revue de Presse de la semaine du 4 Juin</title>
+      
+      
+        
+      <author>GeoTribu</author>
+        
+      
       <description># Revue de Presse de la semaine du 4 Juin 2012
 
 :calendar: Date de publication initiale : 08 juin 2012
@@ -110,6 +140,12 @@ Cette semaine au menu, des librairies javascript pour la [visualisation](#visu) 
     
     <item>
       <title>Revue de presse de la semaine du 11 Juin</title>
+      
+      
+        
+      <author>GeoTribu</author>
+        
+      
       <description># Revue de presse de la semaine du 11 Juin 2012
 
 :calendar: Date de publication initiale : 15 juin 2012
@@ -127,6 +163,12 @@ La fin de semaine est là, plus que quelques heures avant le Week-End ! Mais, c&
     
     <item>
       <title>Revue de presse de la semaine du 9 Juillet</title>
+      
+      
+        
+      <author>GeoTribu</author>
+        
+      
       <description>Revue de presse géomatique de la semaine du 9 juillet 2012</description>
       <link>https://static.geotribu.fr/rdp/2012/rdp_2012-07-13/</link>
       <pubDate>Sat, 23 Jan 2021 10:08:13 -0000</pubDate>
@@ -137,6 +179,12 @@ La fin de semaine est là, plus que quelques heures avant le Week-End ! Mais, c&
     
     <item>
       <title>Revue de presse du 23 juillet</title>
+      
+      
+        
+      <author>GeoTribu</author>
+        
+      
       <description># Revue de presse du 23 juillet 2012
 
 :calendar: Date de publication initiale : 27 juillet 2012
@@ -155,6 +203,12 @@ C&#39;est une revue de presse qui sent bon le soleil, le sable chaud et les part
     
     <item>
       <title>Revue de presse du 24 Septembre 2012</title>
+      
+      
+        
+      <author>GeoTribu</author>
+        
+      
       <description># Revue de presse du 24 Septembre 2012
 
 :calendar: Date de publication initiale : 28 septembre 2012
@@ -172,6 +226,12 @@ C&#39;est une revue de presse qui sent bon le soleil, le sable chaud et les part
     
     <item>
       <title>Revue de presse du 12 novembre 2012</title>
+      
+      
+        
+      <author>GeoTribu</author>
+        
+      
       <description># Revue de presse du 12 novembre 2012
 
 :calendar: Date de publication initiale : 16 novembre 2012
@@ -189,6 +249,8 @@ C&#39;est une revue de presse qui sent bon le soleil, le sable chaud et les part
     
     <item>
       <title>Revue de presse du 22 mars 2013</title>
+      
+      
       <description># Revue de presse du 22 mars 2013
 
 Premiers jours du printemps... Cela se ressent dans notre univers de la géomatique qui bourgeonne de nouvelles. Commençons bien évidemment par nos habituelles sorties de la semaine. Nous parlerons notamment de la version 2.3.0 de Geoserver, du moteur d’itinéraires Open Source OSRM ou encore de la future version de QGIS. Ensuite, la majeure partie de cette revue de presse est consacrée à OpenStreetMap avec cette carte Michelin utilisant les données OSM ou encore</description>
@@ -201,6 +263,8 @@ Premiers jours du printemps... Cela se ressent dans notre univers de la géomati
     
     <item>
       <title>Revue de presse du 12 avril 2013</title>
+      
+      
       <description># Revue de presse du 12 avril 2013
 
 C&#39;est une belle revue de presse que nous vous offrons cette semaine. D&#39;ailleurs, je tiens à remercier les différents contributeurs1 sans qui vous n&#39;auriez pas votre bol de news hebdomadaire. Bon revenons à notre sujet principal. Au menu, vous aurez droit à la sortie de la V2 de Monteverdi et de la nouvelle version de LizMap. Basculons ensuite sur OpenStreetMap avec cette superbe réalisation 3D ou encore la version française de Learn OSM. Profitons en également</description>
@@ -213,6 +277,8 @@ C&#39;est une belle revue de presse que nous vous offrons cette semaine. D&#39;a
     
     <item>
       <title>Revue de presse du 31 Mai 2013</title>
+      
+      
       <description># Revue de presse du 31 Mai 2013
 
 Malgré notre [première GeoInterview](http://geotribu.net/node/621), nous avons tout de même trouve l’énergie pour vous pondre une revue de presse pleine de news. Au menu de celle-ci, la sortie de MapMeter, le nouveau joujou des geeks cartographes venus tout droit de chez OpenGeo. Mais aussi une carte bien déjantée des futures représentations du groupe MGMT ainsi qu&#39;une rétrospective et quelques annonces pour la bibliothèque cartographique Leaflet. Au niveau logi</description>
@@ -225,6 +291,8 @@ Malgré notre [première GeoInterview](http://geotribu.net/node/621), nous avons
     
     <item>
       <title>Revue de presse du 14 juin 2013</title>
+      
+      
       <description># Revue de presse du 14 juin 2013
 
 Cette semaine, l’Administration Américaine surveille tous vos échanges sur la toile… et comme chaque vendredi elle rédige son rapport aux plus hautes instances du pouvoir.  De notre côté,comme chaque semaine, nous surveillons tous mouvements suspicieux de géoinformations ! La semaine fut chargée mais grâce à notre dernière recrue (l’agent [@AdrienVH](https://twitter.com/AdrienVH)), nous nous en sommes bien sorti. Les géoattaques du **FROG** furent nombreuses ma</description>
@@ -237,6 +305,8 @@ Cette semaine, l’Administration Américaine surveille tous vos échanges sur l
     
     <item>
       <title>Revue de presse du 19 juillet 2013</title>
+      
+      
       <description># Revue de presse du 19 juillet 2013
 
 Chez GéoTribu, tout roule et cette semaine on vous fait encore faire la grande boucle de l&#39;actualité géomatique. Une revue de presse dopée aux vacances ! En espérant que vous n&#39;ayez pas un coup de pompe avant la fin de votre lecture et à la semaine prochaine !
@@ -257,6 +327,8 @@ Et puis Pi</description>
     
     <item>
       <title>Revue de presse du 24 janvier 2014</title>
+      
+      
       <description># Revue de presse du 24 janvier 2014
 
 Collant à la représentation selon les 2 extrémités du globe, une carte du monde est souvent polarisée. Pour coller au mieux à cette dichotomie existentielle de la cartographie, la revue de presse de semaine sera donc binaire.
@@ -272,6 +344,8 @@ Collant à la représentation selon les 2 extrémités du globe, une carte du mo
     
     <item>
       <title>Revue de presse du 21 février 2014</title>
+      
+      
       <description># Revue de presse du 21 février 2014
 
 Avec la [sortie de QGIS 2.2](https://anitagraser.com/2014/02/20/just-one-more-day-until-qgis-2-2/) programmée pour demain, nous avons pendant un moment pensé décaler la publication de la GeoRDP. Mais, il faut continuer les bonnes habitudes et garder notre routine !
@@ -286,6 +360,8 @@ D&#39;autant plus que cette semaine est déjà riche en news avec notamment la s
     
     <item>
       <title>Revue de presse du 7 mars 2014</title>
+      
+      
       <description># Revue de presse du 7 mars 2014
 
 Ça envoie du lourd encore cette semaine dans la revue de presse, ou plutôt on va essayer d&#39;envoyer des fichiers un peu moins lourds en réduisant les géométries et on verra comment avec OL3 et Mapshaper. Dans les belles images de la semaine on fera un tour en forêt pour suivre son évolution et on animera un peu les photos satellites souvent statiques.
@@ -306,6 +382,8 @@ D&#39;autant plus que cette semaine est déjà riche en news avec notamment la s
     
     <item>
       <title>Revue de presse du 30 mai 2014</title>
+      
+      
       <description># Revue de presse du 30 mai 2014
 
 C&#39;est parti, pour une nouvelle RDP riche en information ! Comme le savez sûrement il y a peu, c&#39;était le [FOSS4G-FR](http://eventifier.com/event/FOSS4Gfr/popular?utm_content=buffer6624c&amp;utm_medium=social&amp;utm_source=twitter.com&amp;utm_campaign=buffer) ! Ce fût l&#39;occasion pour certains membres de l&#39;équipe de Geotribu de se rencontrer (pour la première fois) et de pouvoir échanger! Nous avons passé tellement de temps à échanger que nous en avons oublié de faire une RD</description>
@@ -318,6 +396,8 @@ C&#39;est parti, pour une nouvelle RDP riche en information ! Comme le savez sû
     
     <item>
       <title>Revue de presse du 14 novembre 2014</title>
+      
+      
       <description># Revue de presse du 14 novembre 2014
 
 Ces derniers temps, nous sommes de mauvais élèves : nous prenons toujours un peu plus de temps que prévu à publier. D&#39;habitude, le Vendredi, vous êtes comme des enfants gâtés: livraison express de la revue de presse.
@@ -332,6 +412,12 @@ Plus sérieusement, découvrez cette semaine un cartoDB sans limite. Voyez comme
     
     <item>
       <title>Revue de presse de la semaine du 22 août</title>
+      
+      
+        
+      <author>GeoTribu</author>
+        
+      
       <description># Revue de presse de la semaine du 22 août 2011
 
 :calendar: Date de publication initiale : 26 août 2011
@@ -350,6 +436,12 @@ Certaines initiatives peuvent définitivement changer le cours de l&#39;histoire
     
     <item>
       <title>Revue de presse de la semaine du 12 septembre 2011</title>
+      
+      
+        
+      <author>GeoTribu</author>
+        
+      
       <description># Revue de presse de la semaine du 12 septembre 2011
 
 :calendar: Date de publication initiale : 16 septembre 2011
@@ -369,6 +461,12 @@ Certaines initiatives peuvent définitivement changer le cours de l&#39;histoire
     
     <item>
       <title>Revue de presse de la semaine du 20 Février</title>
+      
+      
+        
+      <author>GeoTribu</author>
+        
+      
       <description># Revue de presse de la semaine du 20 Février 2012
 
 :calendar: Date de publication initiale : 20 février 2012
@@ -387,6 +485,12 @@ C&#39;est une revue de presse bien chargée que nous vous proposons cette semain
     
     <item>
       <title>Revue de presse du 16 Avril</title>
+      
+      
+        
+      <author>GeoTribu</author>
+        
+      
       <description># Revue de presse du 16 Avril 2012
 
 :calendar: Date de publication initiale : 21 avril 2012
@@ -404,6 +508,12 @@ C&#39;est une revue de presse bien chargée que nous vous proposons cette semain
     
     <item>
       <title>Revue de presse du 22 Juin</title>
+      
+      
+        
+      <author>GeoTribu</author>
+        
+      
       <description># Revue de presse du 22 Juin 2012
 
 :calendar: Date de publication initiale : 22 juin 2012
@@ -421,6 +531,12 @@ C&#39;est une revue de presse bien chargée que nous vous proposons cette semain
     
     <item>
       <title>Revue de presse du 29 Juin</title>
+      
+      
+        
+      <author>GeoTribu</author>
+        
+      
       <description># Revue de presse du 29 Juin 2012
 
 :calendar: Date de publication initiale : 29 juin 2012
@@ -438,6 +554,12 @@ C&#39;est une revue de presse bien chargée que nous vous proposons cette semain
     
     <item>
       <title>Revue de presse du 3 septembre</title>
+      
+      
+        
+      <author>GeoTribu</author>
+        
+      
       <description># Revue de presse du 3 septembre 2012
 
 :calendar: Date de publication initiale : 06 septembre 2012
@@ -455,6 +577,12 @@ C&#39;est une revue de presse bien chargée que nous vous proposons cette semain
     
     <item>
       <title>Revue de presse du 28 octobre 2012</title>
+      
+      
+        
+      <author>GeoTribu</author>
+        
+      
       <description># Revue de presse du 28 octobre 2012
 
 :calendar: Date de publication initiale : 08 novembre 2012
@@ -472,6 +600,12 @@ C&#39;est une revue de presse bien chargée que nous vous proposons cette semain
     
     <item>
       <title>Revue de presse du 5 novembre 2012</title>
+      
+      
+        
+      <author>GeoTribu</author>
+        
+      
       <description># Revue de presse du 5 novembre 2012
 
 :calendar: Date de publication initiale : 09 novembre 2012
@@ -489,6 +623,8 @@ C&#39;est une revue de presse bien chargée que nous vous proposons cette semain
     
     <item>
       <title>Revue de presse du 5 avril 2013</title>
+      
+      
       <description># Revue de presse du 5 avril 2013
 
 Nous étions tellement occupés à manger du chocolat que la revue de presse arrive légèrement en retard cette semaine. Il paraîtrait que le chocolat augmente les capacités de mémorisation. Espérons que vous arriviez à retenir cette revue de presse assez conséquente. Du côté des technos web, OpenLayers se voit doté d&#39;[outils de mesure plus performants](#news21). Mais avis aux gourmands, inutile d&#39;essayer de mesurer votre poids après ces fêtes de Pâques. Un outil a</description>
@@ -501,6 +637,8 @@ Nous étions tellement occupés à manger du chocolat que la revue de presse arr
     
     <item>
       <title>Revue de presse du 19 avril 2013</title>
+      
+      
       <description># Revue de presse du 19 avril 2013
 
 Bonjour et bienvenue à bord de notre vol géomatique hebdomadaire. Les sorties de secours sont indiquées avec d&#39;OpenLayers 3 alpha côté nouveauté client, avec gvSIG 2.0 côté desktop et avec une pirouette de MapBox.js en Leaflet majeur.
@@ -515,6 +653,8 @@ Pour des raisons de sécurité, notre système de navigation est basé sur des c
     
     <item>
       <title>Revue de presse du 27 Septembre 2013</title>
+      
+      
       <description># Revue de presse du 27 Septembre 2013
 
 Bon cette semaine c&#39;est un vis ma vie à Terre Neuve. Pour l&#39;anecdote, j&#39;avais prévu hier d&#39;organiser une mapping party. Mais, tout comme l&#39;année dernière, ma tentative d&#39;enseigner un peu de VGI aux étudiants a été avortée grâce au temps de m$*&amp;... C&#39;est décidé, l&#39;année prochaine je cherche un poste au soleil ! Heureusement que mes collègues de GéoTribu m&#39;envoient de temps à autre de bonnes recettes pour me faire patienter. Aujourd&#39;hui, on reste dans un thè</description>
@@ -527,6 +667,8 @@ Bon cette semaine c&#39;est un vis ma vie à Terre Neuve. Pour l&#39;anecdote, j
     
     <item>
       <title>Revue de presse du 6 décembre 2013</title>
+      
+      
       <description># Revue de presse du 6 décembre 2013
 
 L&#39;intro : un vaste sujet.
@@ -555,6 +697,8 @@ Jamais au grand jamais ne répondre à la question dans l&#39;introduct</descrip
     
     <item>
       <title>Revue de presse du 20 décembre 2013</title>
+      
+      
       <description># Revue de presse du 20 décembre 2013
 
 Bon bien évidemment qui dit période de noël, dit que nous allons avoir droit à toutes les rediffusions habituelles de films. Mais si, vous savez ces films que nous avons déjà vu 50 000 fois ! Au hasard, &#34;Maman j&#39;ai raté l&#39;avion&#34;. Avec un peu de chance, vous allez même peut-être avoir la trilogie. Pour ma part, voici ma sélection pour le 25 décembre:
@@ -569,6 +713,12 @@ Bon plus sérieusement, chez GéoTribu nous se sommes pas vraiment des enfants d
     
     <item>
       <title>Revue de presse du 18 avril 2014</title>
+      
+      
+        
+      <author>GeoTribu</author>
+        
+      
       <description># Revue de presse du 18 Avril 2014
 
 En voilà une revue de presse qu&#39;elle est complète et diversifiée ! Allez faire des jeux de mots ou une intro originale quand il y a tellement de choses et de sujets qu&#39;il est bien difficile d&#39;établir un fil conducteur. Mais n&#39;allez pas croire que je me plains, bien au contraire, diversité et richesse sont synonymes dans le GeoTipi ! Allez zou, aux grands maux, les vieux adages : un dessin vaut mieux qu&#39;un grand discours !
@@ -583,6 +733,8 @@ En voilà une revue de presse qu&#39;elle est complète et diversifiée ! Allez 
     
     <item>
       <title>Revue de presse du 17 octobre 2014</title>
+      
+      
       <description># Revue de presse du 17 octobre 2014
 
 Bon j&#39;espère que vous aimez QGIS parce ce que vous allez en manger dans la GeoRDP de cette semaine ! Entre QuickOSM, le guide PyQGIS, la personnalisation de symbologie et autres, notre ligne éditoriale est sérieusement biaisée ! Mais bon, comme le dit un bon vieux dictons, quand on aime on ne compte pas ! Ne vous inquiétez pas on vous parlera tout de même d&#39;autres choses, les sorties de LizMap Web Client (QGIS Server, ça compte pas !) et de Versio, sans comp</description>
@@ -595,6 +747,8 @@ Bon j&#39;espère que vous aimez QGIS parce ce que vous allez en manger dans la 
     
     <item>
       <title>Revue de presse du 12 décembre 2014</title>
+      
+      
       <description># Revue de presse du 12 décembre 2014
 
 Cette semaine, une revue de presse couvrant des sujets vraiment très variés. On commence par une utilisation du WebGL pour visualiser les pistes de ski pour passer à Openlayers 3 qui a maintenant le support du WebGL pour le rendu des ponctuels. On couvre une fois de plus QGIS tant pour un Séminaire utilisateurs à Montpellier qu&#39;avec l&#39;intégration continue du code qui va permettre d&#39;identifier des régressions potentielles. Ensuite on passe de l&#39;apologie de G</description>
@@ -607,6 +761,8 @@ Cette semaine, une revue de presse couvrant des sujets vraiment très variés. O
     
     <item>
       <title>Revue de presse du 30 janvier 2015</title>
+      
+      
       <description># Revue de presse du 30 janvier 2015
 
 Vous avez la petite forme cette semaine ? le moral en berne ? Rassurez-vous, c&#39;est normal, c&#39;est la période du &#34;[Blue Monday](https://fr.wikipedia.org/wiki/Lundi_blues)&#34;, époque la plus morose de l&#39;année. Mais pour lutter contre la déprime rien de tel qu&#39;une bonne petite revue de presse ! Petite ? Eh ouais, on y est allé mollo cette semaine, entre ceux qui étaient au ski, les malades et ceux qui avaient autre chose à faire, on a connu plus complète comme Geo</description>
@@ -619,6 +775,12 @@ Vous avez la petite forme cette semaine ? le moral en berne ? Rassurez-vous, c&#
     
     <item>
       <title>Revue de presse du 27 mars</title>
+      
+      
+        
+      <author>Geotribu</author>
+        
+      
       <description>Revue de presse du 27 mars</description>
       <link>https://static.geotribu.fr/rdp/2015/rdp_2015-03-27/</link>
       <pubDate>Sat, 23 Jan 2021 09:38:58 -0000</pubDate>
@@ -629,6 +791,12 @@ Vous avez la petite forme cette semaine ? le moral en berne ? Rassurez-vous, c&#
     
     <item>
       <title>Revue de presse du 7 avril</title>
+      
+      
+        
+      <author>Geotribu</author>
+        
+      
       <description>Revue de presse du 7 avril</description>
       <link>https://static.geotribu.fr/rdp/2015/rdp_2015-04-07/</link>
       <pubDate>Sat, 23 Jan 2021 09:38:58 -0000</pubDate>
