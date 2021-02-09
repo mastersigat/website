@@ -14,8 +14,8 @@
     <language>fr</language>
 
     
-    <pubDate>Tue, 02 Feb 2021 16:26:00 -0000</pubDate>
-    <lastBuildDate>Tue, 02 Feb 2021 16:26:00 -0000</lastBuildDate>
+    <pubDate>Tue, 09 Feb 2021 08:44:08 -0000</pubDate>
+    <lastBuildDate>Tue, 09 Feb 2021 08:44:08 -0000</lastBuildDate>
     <ttl>1440</ttl>
 
     
@@ -31,6 +31,24 @@
     
 
     
+    
+    <item>
+      <title>Impact de Twitter sur la fréquentation du site GeoTribu</title>
+      
+      
+        
+      <author>Aurélien CHAUMET</author>
+        
+      
+      <description>Récupérer des données sociales de Twitter, les préparer et les représenter est assez simple, grâce à trois bibliothèques Python : Twint, Pandas et Plolty. L&#39;exemple développé ici s&#39;appuie sur les statistiques autour des GeoRDP et articles parus dans GeoTribu en 2020</description>
+      <link>https://static.geotribu.fr/articles/2021/2021-02-09_statistiques_twitter/</link>
+      <pubDate>Mon, 08 Feb 2021 15:31:11 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      <guid isPermaLink="true">https://static.geotribu.fr/articles/2021/2021-02-09_statistiques_twitter/</guid>
+      
+      <enclosure url="https://cdn.geotribu.fr/img/articles-blog-rdp/articles/stats_twitter/geotribu_stats_twitter.png" type="image/png" length="190489" />
+      
+    </item>
     
     <item>
       <title>PyQGIS : lister et prévisualiser les images intégrées</title>
@@ -796,20 +814,6 @@ Bon j&#39;espère que vous aimez QGIS parce ce que vous allez en manger dans la 
       <pubDate>Sat, 23 Jan 2021 09:38:58 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
       <guid isPermaLink="true">https://static.geotribu.fr/rdp/2014/rdp_2014-10-17/</guid>
-      
-    </item>
-    
-    <item>
-      <title>Revue de presse du 12 décembre 2014</title>
-      
-      
-      <description># Revue de presse du 12 décembre 2014
-
-Cette semaine, une revue de presse couvrant des sujets vraiment très variés. On commence par une utilisation du WebGL pour visualiser les pistes de ski pour passer à Openlayers 3 qui a maintenant le support du WebGL pour le rendu des ponctuels. On couvre une fois de plus QGIS tant pour un Séminaire utilisateurs à Montpellier qu&#39;avec l&#39;intégration continue du code qui va permettre d&#39;identifier des régressions potentielles. Ensuite on passe de l&#39;apologie de G</description>
-      <link>https://static.geotribu.fr/rdp/2014/rdp_2014-12-12/</link>
-      <pubDate>Sat, 23 Jan 2021 09:38:58 -0000</pubDate>
-      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
-      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2014/rdp_2014-12-12/</guid>
       
     </item>
     

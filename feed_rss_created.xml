@@ -14,8 +14,8 @@
     <language>fr</language>
 
     
-    <pubDate>Tue, 02 Feb 2021 16:26:00 -0000</pubDate>
-    <lastBuildDate>Tue, 02 Feb 2021 16:26:00 -0000</lastBuildDate>
+    <pubDate>Tue, 09 Feb 2021 08:44:08 -0000</pubDate>
+    <lastBuildDate>Tue, 09 Feb 2021 08:44:08 -0000</lastBuildDate>
     <ttl>1440</ttl>
 
     
@@ -31,6 +31,24 @@
     
 
     
+    
+    <item>
+      <title>Impact de Twitter sur la fréquentation du site GeoTribu</title>
+      
+      
+        
+      <author>Aurélien CHAUMET</author>
+        
+      
+      <description>Récupérer des données sociales de Twitter, les préparer et les représenter est assez simple, grâce à trois bibliothèques Python : Twint, Pandas et Plolty. L&#39;exemple développé ici s&#39;appuie sur les statistiques autour des GeoRDP et articles parus dans GeoTribu en 2020</description>
+      <link>https://static.geotribu.fr/articles/2021/2021-02-09_statistiques_twitter/</link>
+      <pubDate>Tue, 09 Feb 2021 10:20:00 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
+      <guid isPermaLink="true">https://static.geotribu.fr/articles/2021/2021-02-09_statistiques_twitter/</guid>
+      
+      <enclosure url="https://cdn.geotribu.fr/img/articles-blog-rdp/articles/stats_twitter/geotribu_stats_twitter.png" type="image/png" length="190489" />
+      
+    </item>
     
     <item>
       <title>PyQGIS : lister et prévisualiser les images intégrées</title>
@@ -699,24 +717,6 @@ De formation autodidacte, je travaille au Pays Marennes Oléron en tant que char
       <pubDate>Mon, 20 Jul 2020 10:20:00 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
       <guid isPermaLink="true">https://static.geotribu.fr/contribuer/guides/emoji/</guid>
-      
-    </item>
-    
-    <item>
-      <title>Revue de presse du 10 juillet 2020</title>
-      
-      
-        
-      <author>Geotribu</author>
-        
-      
-      <description>Revue de presse géomatique du 10 juillet 2020 : éditeur OSM en Python, flux RSS Geotribu, Landsat dans le cloud, vision sur le futur du SIG open source, 16è conférence gvSIG</description>
-      <link>https://static.geotribu.fr/rdp/2020/rdp_2020-07-10/</link>
-      <pubDate>Fri, 10 Jul 2020 10:20:00 -0000</pubDate>
-      <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
-      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2020/rdp_2020-07-10/</guid>
-      
-      <enclosure url="https://cdn.geotribu.fr/img/articles-blog-rdp/capture-ecran/osmapy.png" type="image/png" length="768315" />
       
     </item>
     
