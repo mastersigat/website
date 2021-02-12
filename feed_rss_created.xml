@@ -14,8 +14,8 @@
     <language>fr</language>
 
     
-    <pubDate>Tue, 09 Feb 2021 08:44:08 -0000</pubDate>
-    <lastBuildDate>Tue, 09 Feb 2021 08:44:08 -0000</lastBuildDate>
+    <pubDate>Fri, 12 Feb 2021 13:13:57 -0000</pubDate>
+    <lastBuildDate>Fri, 12 Feb 2021 13:13:57 -0000</lastBuildDate>
     <ttl>1440</ttl>
 
     
@@ -31,6 +31,24 @@
     
 
     
+    
+    <item>
+      <title>Revue de presse du 12 février 2021</title>
+      
+      
+        
+      <author>Geotribu</author>
+        
+      
+      <description>GeoRDP, la revue de presse géomatique : Input l&#39;application mobile liée avec QGIS, GeoContrib, le jeu des brasseries, notre participation à la prochaine édition des Reclus aux Confins, des outils pour choisir son nuancier de couleurs, des représentations liées aux incendies et d&#39;autres choses encore.</description>
+      <link>https://static.geotribu.fr/rdp/2021/rdp_2021-02-12/</link>
+      <pubDate>Fri, 12 Feb 2021 14:20:00 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
+      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2021/rdp_2021-02-12/</guid>
+      
+      <enclosure url="https://cdn.geotribu.fr/img/articles-blog-rdp/library_map.png" type="image/png" length="271624" />
+      
+    </item>
     
     <item>
       <title>Impact de Twitter sur la fréquentation du site GeoTribu</title>
@@ -705,18 +723,6 @@ De formation autodidacte, je travaille au Pays Marennes Oléron en tant que char
       <pubDate>Mon, 20 Jul 2020 10:20:00 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
       <guid isPermaLink="true">https://static.geotribu.fr/contribuer/guides/diagrams/</guid>
-      
-    </item>
-    
-    <item>
-      <title>Utiliser des emojis</title>
-      
-      
-      <description>Guide de contribution à Geotribu : comment insérer des émojis dans un contenu en Markdown.</description>
-      <link>https://static.geotribu.fr/contribuer/guides/emoji/</link>
-      <pubDate>Mon, 20 Jul 2020 10:20:00 -0000</pubDate>
-      <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
-      <guid isPermaLink="true">https://static.geotribu.fr/contribuer/guides/emoji/</guid>
       
     </item>
     

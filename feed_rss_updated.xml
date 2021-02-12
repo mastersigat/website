@@ -14,8 +14,8 @@
     <language>fr</language>
 
     
-    <pubDate>Tue, 09 Feb 2021 08:44:08 -0000</pubDate>
-    <lastBuildDate>Tue, 09 Feb 2021 08:44:08 -0000</lastBuildDate>
+    <pubDate>Fri, 12 Feb 2021 13:13:57 -0000</pubDate>
+    <lastBuildDate>Fri, 12 Feb 2021 13:13:57 -0000</lastBuildDate>
     <ttl>1440</ttl>
 
     
@@ -31,6 +31,24 @@
     
 
     
+    
+    <item>
+      <title>Revue de presse du 12 février 2021</title>
+      
+      
+        
+      <author>Geotribu</author>
+        
+      
+      <description>GeoRDP, la revue de presse géomatique : Input l&#39;application mobile liée avec QGIS, GeoContrib, le jeu des brasseries, notre participation à la prochaine édition des Reclus aux Confins, des outils pour choisir son nuancier de couleurs, des représentations liées aux incendies et d&#39;autres choses encore.</description>
+      <link>https://static.geotribu.fr/rdp/2021/rdp_2021-02-12/</link>
+      <pubDate>Fri, 12 Feb 2021 13:09:10 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2021/rdp_2021-02-12/</guid>
+      
+      <enclosure url="https://cdn.geotribu.fr/img/articles-blog-rdp/library_map.png" type="image/png" length="271624" />
+      
+    </item>
     
     <item>
       <title>Impact de Twitter sur la fréquentation du site GeoTribu</title>
@@ -800,20 +818,6 @@ En voilà une revue de presse qu&#39;elle est complète et diversifiée ! Allez 
       <pubDate>Sat, 23 Jan 2021 09:38:58 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
       <guid isPermaLink="true">https://static.geotribu.fr/rdp/2014/rdp_2014-04-18/</guid>
-      
-    </item>
-    
-    <item>
-      <title>Revue de presse du 17 octobre 2014</title>
-      
-      
-      <description># Revue de presse du 17 octobre 2014
-
-Bon j&#39;espère que vous aimez QGIS parce ce que vous allez en manger dans la GeoRDP de cette semaine ! Entre QuickOSM, le guide PyQGIS, la personnalisation de symbologie et autres, notre ligne éditoriale est sérieusement biaisée ! Mais bon, comme le dit un bon vieux dictons, quand on aime on ne compte pas ! Ne vous inquiétez pas on vous parlera tout de même d&#39;autres choses, les sorties de LizMap Web Client (QGIS Server, ça compte pas !) et de Versio, sans comp</description>
-      <link>https://static.geotribu.fr/rdp/2014/rdp_2014-10-17/</link>
-      <pubDate>Sat, 23 Jan 2021 09:38:58 -0000</pubDate>
-      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
-      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2014/rdp_2014-10-17/</guid>
       
     </item>
     
