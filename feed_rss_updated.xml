@@ -14,8 +14,8 @@
     <language>fr</language>
 
     
-    <pubDate>Fri, 12 Feb 2021 13:13:57 -0000</pubDate>
-    <lastBuildDate>Fri, 12 Feb 2021 13:13:57 -0000</lastBuildDate>
+    <pubDate>Fri, 12 Feb 2021 14:19:11 -0000</pubDate>
+    <lastBuildDate>Fri, 12 Feb 2021 14:19:11 -0000</lastBuildDate>
     <ttl>1440</ttl>
 
     
@@ -31,6 +31,24 @@
     
 
     
+    
+    <item>
+      <title>Corriger automatiquement des géométries topologiquement invalides avec QGIS</title>
+      
+      
+        
+      <author>Arnaud Vandecasteele</author>
+        
+      
+      <description>Vous avez reçu des données dont les géométries ne sont pas valides ? Pas de panique, voici comment les corriger en utilisant les traitements GRASS intégrées à QGIS.</description>
+      <link>https://static.geotribu.fr/articles/2014/art_2014-11-13/</link>
+      <pubDate>Fri, 12 Feb 2021 14:17:49 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      <guid isPermaLink="true">https://static.geotribu.fr/articles/2014/art_2014-11-13/</guid>
+      
+      <enclosure url="https://cdn.geotribu.fr/img/tuto/qgis_fix_geometry/qgis_check_geom_validity_start.png" type="image/png" length="105591" />
+      
+    </item>
     
     <item>
       <title>Revue de presse du 12 février 2021</title>
@@ -798,26 +816,6 @@ Bon plus sérieusement, chez GéoTribu nous se sommes pas vraiment des enfants d
       <pubDate>Sat, 23 Jan 2021 09:38:58 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
       <guid isPermaLink="true">https://static.geotribu.fr/rdp/2013/rdp_2013-12-20/</guid>
-      
-    </item>
-    
-    <item>
-      <title>Revue de presse du 18 avril 2014</title>
-      
-      
-        
-      <author>GeoTribu</author>
-        
-      
-      <description># Revue de presse du 18 Avril 2014
-
-En voilà une revue de presse qu&#39;elle est complète et diversifiée ! Allez faire des jeux de mots ou une intro originale quand il y a tellement de choses et de sujets qu&#39;il est bien difficile d&#39;établir un fil conducteur. Mais n&#39;allez pas croire que je me plains, bien au contraire, diversité et richesse sont synonymes dans le GeoTipi ! Allez zou, aux grands maux, les vieux adages : un dessin vaut mieux qu&#39;un grand discours !
-
-![Nuage de mots de la revue de presse</description>
-      <link>https://static.geotribu.fr/rdp/2014/rdp_2014-04-18/</link>
-      <pubDate>Sat, 23 Jan 2021 09:38:58 -0000</pubDate>
-      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
-      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2014/rdp_2014-04-18/</guid>
       
     </item>
     
