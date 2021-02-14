@@ -1,6 +1,6 @@
 # Faire une carte en ligne (tuiles vectorielles + WebGL) 100% libre
 
-:calendar: Date de publication initiale : 14 février 2021
+:calendar: Date de publication initiale : 15 février 2021
 
 **Mots-clés :** Webmapping | Tuiles vectorielles | WebGL
 
